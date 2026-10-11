@@ -1,0 +1,120 @@
+{
+  "tag": "li",
+  "text": "Installation and Configuration",
+  "children": [
+    {
+      "tag": "a",
+      "text": "Installation and Configuration",
+      "href": "install.html"
+    },
+    {
+      "tag": "ul",
+      "class": [
+        "chunklist",
+        "chunklist_set",
+        "chunklist_children"
+      ],
+      "children": [
+        {
+          "tag": "li",
+          "text": "General Installation Considerations",
+          "children": [
+            {
+              "tag": "a",
+              "text": "General Installation Considerations",
+              "href": "install.general.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Installation on Unix systems",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Installation on Unix systems",
+              "href": "install.unix.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Installation on macOS",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Installation on macOS",
+              "href": "install.macosx.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Installation on Windows systems",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Installation on Windows systems",
+              "href": "install.windows.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Installation on Cloud Computing platforms",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Installation on Cloud Computing platforms",
+              "href": "install.cloud.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "FastCGI Process Manager (FPM)",
+          "children": [
+            {
+              "tag": "a",
+              "text": "FastCGI Process Manager (FPM)",
+              "href": "install.fpm.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Installation of PECL extensions",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Installation of PECL extensions",
+              "href": "install.pecl.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Problems?",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Problems?",
+              "href": "install.problems.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Runtime Configuration",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Runtime Configuration",
+              "href": "configuration.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

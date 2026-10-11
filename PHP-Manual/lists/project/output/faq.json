@@ -1,0 +1,142 @@
+{
+  "tag": "li",
+  "text": "FAQ — FAQ: Frequently Asked Questions",
+  "children": [
+    {
+      "tag": "a",
+      "text": "FAQ",
+      "href": "faq.html"
+    },
+    {
+      "tag": "ul",
+      "class": [
+        "chunklist",
+        "chunklist_set",
+        "chunklist_children"
+      ],
+      "children": [
+        {
+          "tag": "li",
+          "text": "General Information",
+          "children": [
+            {
+              "tag": "a",
+              "text": "General Information",
+              "href": "faq.general.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Mailing lists",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Mailing lists",
+              "href": "faq.mailinglist.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Obtaining PHP",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Obtaining PHP",
+              "href": "faq.obtaining.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Database issues",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Database issues",
+              "href": "faq.databases.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Installation",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Installation",
+              "href": "faq.installation.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Build Problems",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Build Problems",
+              "href": "faq.build.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Using PHP",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Using PHP",
+              "href": "faq.using.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Password Hashing — Safe Password Hashing",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Password Hashing",
+              "href": "faq.passwords.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "PHP and HTML",
+          "children": [
+            {
+              "tag": "a",
+              "text": "PHP and HTML",
+              "href": "faq.html.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "PHP and COM",
+          "children": [
+            {
+              "tag": "a",
+              "text": "PHP and COM",
+              "href": "faq.com.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Miscellaneous Questions",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Miscellaneous Questions",
+              "href": "faq.misc.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

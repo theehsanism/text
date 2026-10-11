@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "source": "Ref/PHP/*.html",
+    "xpath": "/html/body/div[3]/div/div",
+    "extractedFields": [
+      "tag",
+      "class",
+      "href",
+      "id",
+      "children"
+    ],
+    "note": "Only structural metadata extracted — no text content included",
+    "totalFiles": 12146,
+    "generatedAt": "2026-10-11T08:31:40.005Z",
+    "splitDir": "knowledge/dom-split/"
+  },
+  "stats": {
+    "filesProcessed": 12146,
+    "filesSkipped": 0,
+    "totalSections": 12146,
+    "errors": []
+  },
+  "categories": {
+    "about": {
+      "pages": 8,
+      "skipped": 0,
+      "files": [
+        "dom-about.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-about.json",
+          "sizeKB": 13
+        }
+      ]
+    },
+    "misc": {
+      "pages": 6195,
+      "skipped": 0,
+      "files": [
+        "dom-misc-01.json",
+        "dom-misc-02.json",
+        "dom-misc-03.json",
+        "dom-misc-04.json",
+        "dom-misc-05.json",
+        "dom-misc-06.json",
+        "dom-misc-07.json",
+        "dom-misc-08.json",
+        "dom-misc-09.json",
+        "dom-misc-10.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-misc-01.json",
+          "sizeKB": 3067
+        },
+        {
+          "name": "dom-misc-02.json",
+          "sizeKB": 3070
+        },
+        {
+          "name": "dom-misc-03.json",
+          "sizeKB": 2955
+        },
+        {
+          "name": "dom-misc-04.json",
+          "sizeKB": 3069
+        },
+        {
+          "name": "dom-misc-05.json",
+          "sizeKB": 3067
+        },
+        {
+          "name": "dom-misc-06.json",
+          "sizeKB": 3067
+        },
+        {
+          "name": "dom-misc-07.json",
+          "sizeKB": 3067
+        },
+        {
+          "name": "dom-misc-08.json",
+          "sizeKB": 3070
+        },
+        {
+          "name": "dom-misc-09.json",
+          "sizeKB": 3024
+        },
+        {
+          "name": "dom-misc-10.json",
+          "sizeKB": 2186
+        }
+      ]
+    },
+    "appendices": {
+      "pages": 1,
+      "skipped": 0,
+      "files": [
+        "dom-appendices.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-appendices.json",
+          "sizeKB": 19
+        }
+      ]
+    },
+    "books": {
+      "pages": 427,
+      "skipped": 0,
+      "files": [
+        "dom-books-01.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-books-01.json",
+          "sizeKB": 1699
+        }
+      ]
+    },
+    "classes": {
+      "pages": 372,
+      "skipped": 0,
+      "files": [
+        "dom-classes-01.json",
+        "dom-classes-02.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-classes-01.json",
+          "sizeKB": 3055
+        },
+        {
+          "name": "dom-classes-02.json",
+          "sizeKB": 1929
+        }
+      ]
+    },
+    "installation": {
+      "pages": 52,
+      "skipped": 0,
+      "files": [
+        "dom-installation.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-installation.json",
+          "sizeKB": 210
+        }
+      ]
+    },
+    "faq": {
+      "pages": 13,
+      "skipped": 0,
+      "files": [
+        "dom-faq.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-faq.json",
+          "sizeKB": 147
+        }
+      ]
+    },
+    "functions": {
+      "pages": 4653,
+      "skipped": 0,
+      "files": [
+        "dom-functions-01.json",
+        "dom-functions-02.json",
+        "dom-functions-03.json",
+        "dom-functions-04.json",
+        "dom-functions-05.json",
+        "dom-functions-06.json",
+        "dom-functions-07.json",
+        "dom-functions-08.json",
+        "dom-functions-09.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-functions-01.json",
+          "sizeKB": 3060
+        },
+        {
+          "name": "dom-functions-02.json",
+          "sizeKB": 3070
+        },
+        {
+          "name": "dom-functions-03.json",
+          "sizeKB": 3067
+        },
+        {
+          "name": "dom-functions-04.json",
+          "sizeKB": 3071
+        },
+        {
+          "name": "dom-functions-05.json",
+          "sizeKB": 3067
+        },
+        {
+          "name": "dom-functions-06.json",
+          "sizeKB": 3069
+        },
+        {
+          "name": "dom-functions-07.json",
+          "sizeKB": 3060
+        },
+        {
+          "name": "dom-functions-08.json",
+          "sizeKB": 3071
+        },
+        {
+          "name": "dom-functions-09.json",
+          "sizeKB": 1961
+        }
+      ]
+    },
+    "history": {
+      "pages": 4,
+      "skipped": 0,
+      "files": [
+        "dom-history.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-history.json",
+          "sizeKB": 4
+        }
+      ]
+    },
+    "index": {
+      "pages": 1,
+      "skipped": 0,
+      "files": [
+        "dom-index.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-index.json",
+          "sizeKB": 22
+        }
+      ]
+    },
+    "language": {
+      "pages": 91,
+      "skipped": 0,
+      "files": [
+        "dom-language-01.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-language-01.json",
+          "sizeKB": 1151
+        }
+      ]
+    },
+    "migration": {
+      "pages": 71,
+      "skipped": 0,
+      "files": [
+        "dom-migration.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-migration.json",
+          "sizeKB": 389
+        }
+      ]
+    },
+    "references": {
+      "pages": 212,
+      "skipped": 0,
+      "files": [
+        "dom-references-01.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-references-01.json",
+          "sizeKB": 956
+        }
+      ]
+    },
+    "reserved": {
+      "pages": 20,
+      "skipped": 0,
+      "files": [
+        "dom-reserved.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-reserved.json",
+          "sizeKB": 122
+        }
+      ]
+    },
+    "security": {
+      "pages": 26,
+      "skipped": 0,
+      "files": [
+        "dom-security.json"
+      ],
+      "fileDetails": [
+        {
+          "name": "dom-security.json",
+          "sizeKB": 88
+        }
+      ]
+    }
+  },
+  "splitFiles": {
+    "about": {
+      "files": [
+        "dom-about.json"
+      ],
+      "totalPages": 8
+    },
+    "appendices": {
+      "files": [
+        "dom-appendices.json"
+      ],
+      "totalPages": 1
+    },
+    "books": {
+      "files": [
+        "dom-books-01.json"
+      ],
+      "totalPages": 427
+    },
+    "classes": {
+      "files": [
+        "dom-classes-01.json",
+        "dom-classes-02.json"
+      ],
+      "totalPages": 372
+    },
+    "faq": {
+      "files": [
+        "dom-faq.json"
+      ],
+      "totalPages": 13
+    },
+    "functions": {
+      "files": [
+        "dom-functions-01.json",
+        "dom-functions-02.json",
+        "dom-functions-03.json",
+        "dom-functions-04.json",
+        "dom-functions-05.json",
+        "dom-functions-06.json",
+        "dom-functions-07.json",
+        "dom-functions-08.json",
+        "dom-functions-09.json"
+      ],
+      "totalPages": 4653
+    },
+    "history": {
+      "files": [
+        "dom-history.json"
+      ],
+      "totalPages": 4
+    },
+    "index": {
+      "files": [
+        "dom-index.json"
+      ],
+      "totalPages": 1
+    },
+    "installation": {
+      "files": [
+        "dom-installation.json"
+      ],
+      "totalPages": 52
+    },
+    "language": {
+      "files": [
+        "dom-language-01.json"
+      ],
+      "totalPages": 91
+    },
+    "migration": {
+      "files": [
+        "dom-migration.json"
+      ],
+      "totalPages": 71
+    },
+    "misc": {
+      "files": [
+        "dom-misc-01.json",
+        "dom-misc-02.json",
+        "dom-misc-03.json",
+        "dom-misc-04.json",
+        "dom-misc-05.json",
+        "dom-misc-06.json",
+        "dom-misc-07.json",
+        "dom-misc-08.json",
+        "dom-misc-09.json",
+        "dom-misc-10.json"
+      ],
+      "totalPages": 6195
+    },
+    "references": {
+      "files": [
+        "dom-references-01.json"
+      ],
+      "totalPages": 212
+    },
+    "reserved": {
+      "files": [
+        "dom-reserved.json"
+      ],
+      "totalPages": 20
+    },
+    "security": {
+      "files": [
+        "dom-security.json"
+      ],
+      "totalPages": 26
+    }
+  }
+}

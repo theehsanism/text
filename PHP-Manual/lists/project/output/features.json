@@ -1,0 +1,153 @@
+{
+  "tag": "li",
+  "text": "Features",
+  "children": [
+    {
+      "tag": "a",
+      "text": "Features",
+      "href": "features.html"
+    },
+    {
+      "tag": "ul",
+      "class": [
+        "chunklist",
+        "chunklist_set",
+        "chunklist_children"
+      ],
+      "children": [
+        {
+          "tag": "li",
+          "text": "HTTP authentication with PHP",
+          "children": [
+            {
+              "tag": "a",
+              "text": "HTTP authentication with PHP",
+              "href": "features.http-auth.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Cookies",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Cookies",
+              "href": "features.cookies.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Sessions",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Sessions",
+              "href": "features.sessions.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Dealing with XForms",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Dealing with XForms",
+              "href": "features.xforms.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Handling file uploads",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Handling file uploads",
+              "href": "features.file-upload.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Using remote files",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Using remote files",
+              "href": "features.remote-files.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Connection handling",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Connection handling",
+              "href": "features.connection-handling.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Persistent Database Connections",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Persistent Database Connections",
+              "href": "features.persistent-connections.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Safe Mode",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Safe Mode",
+              "href": "features.safe-mode.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Command line usage — Using PHP from the command line",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Command line usage",
+              "href": "features.commandline.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Garbage Collection",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Garbage Collection",
+              "href": "features.gc.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "DTrace Dynamic Tracing",
+          "children": [
+            {
+              "tag": "a",
+              "text": "DTrace Dynamic Tracing",
+              "href": "features.dtrace.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

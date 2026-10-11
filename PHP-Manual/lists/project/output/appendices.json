@@ -1,0 +1,340 @@
+{
+  "tag": "li",
+  "text": "Appendices",
+  "children": [
+    {
+      "tag": "a",
+      "text": "Appendices",
+      "href": "appendices.html"
+    },
+    {
+      "tag": "ul",
+      "class": [
+        "chunklist",
+        "chunklist_set",
+        "chunklist_children"
+      ],
+      "children": [
+        {
+          "tag": "li",
+          "text": "History of PHP and Related Projects",
+          "children": [
+            {
+              "tag": "a",
+              "text": "History of PHP and Related Projects",
+              "href": "history.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 7.3.x to PHP 7.4.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 7.3.x to PHP 7.4.x",
+              "href": "migration74.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 7.2.x to PHP 7.3.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 7.2.x to PHP 7.3.x",
+              "href": "migration73.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 7.1.x to PHP 7.2.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 7.1.x to PHP 7.2.x",
+              "href": "migration72.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 7.0.x to PHP 7.1.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 7.0.x to PHP 7.1.x",
+              "href": "migration71.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 5.6.x to PHP 7.0.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 5.6.x to PHP 7.0.x",
+              "href": "migration70.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 5.5.x to PHP 5.6.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 5.5.x to PHP 5.6.x",
+              "href": "migration56.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 5.4.x to PHP 5.5.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 5.4.x to PHP 5.5.x",
+              "href": "migration55.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 5.3.x to PHP 5.4.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 5.3.x to PHP 5.4.x",
+              "href": "migration54.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 5.2.x to PHP 5.3.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 5.2.x to PHP 5.3.x",
+              "href": "migration53.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 5.1.x to PHP 5.2.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 5.1.x to PHP 5.2.x",
+              "href": "migration52.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 5.0.x to PHP 5.1.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 5.0.x to PHP 5.1.x",
+              "href": "migration51.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Migrating from PHP 4 to PHP 5.0.x",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Migrating from PHP 4 to PHP 5.0.x",
+              "href": "migration5.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Debugging in PHP",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Debugging in PHP",
+              "href": "debugger.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Configure options",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Configure options",
+              "href": "configure.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "php.ini directives",
+          "children": [
+            {
+              "tag": "a",
+              "text": "php.ini directives",
+              "href": "ini.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Extension List/Categorization",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Extension List/Categorization",
+              "href": "extensions.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "List of Function Aliases",
+          "children": [
+            {
+              "tag": "a",
+              "text": "List of Function Aliases",
+              "href": "aliases.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "List of Reserved Words",
+          "children": [
+            {
+              "tag": "a",
+              "text": "List of Reserved Words",
+              "href": "reserved.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "List of Resource Types",
+          "children": [
+            {
+              "tag": "a",
+              "text": "List of Resource Types",
+              "href": "resource.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "List of Available Filters",
+          "children": [
+            {
+              "tag": "a",
+              "text": "List of Available Filters",
+              "href": "filters.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "List of Supported Socket Transports",
+          "children": [
+            {
+              "tag": "a",
+              "text": "List of Supported Socket Transports",
+              "href": "transports.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "PHP type comparison tables",
+          "children": [
+            {
+              "tag": "a",
+              "text": "PHP type comparison tables",
+              "href": "types.comparisons.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "List of Parser Tokens",
+          "children": [
+            {
+              "tag": "a",
+              "text": "List of Parser Tokens",
+              "href": "tokens.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Userland Naming Guide",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Userland Naming Guide",
+              "href": "userlandnaming.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "About the manual",
+          "children": [
+            {
+              "tag": "a",
+              "text": "About the manual",
+              "href": "about.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Creative Commons Attribution 3.0",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Creative Commons Attribution 3.0",
+              "href": "cc.license.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Index listing",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Index listing",
+              "href": "indexes.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Changelog",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Changelog",
+              "href": "doc.changelog.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

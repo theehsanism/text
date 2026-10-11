@@ -1,0 +1,197 @@
+{
+  "tag": "li",
+  "text": "PHP at the Core: A Hacker's Guide",
+  "children": [
+    {
+      "tag": "a",
+      "text": "PHP at the Core: A Hacker's Guide",
+      "href": "internals2.html"
+    },
+    {
+      "tag": "ul",
+      "class": [
+        "chunklist",
+        "chunklist_set",
+        "chunklist_children"
+      ],
+      "children": [
+        {
+          "tag": "li",
+          "text": "Preface",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Preface",
+              "href": "internals2.preface.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Memory management",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Memory management",
+              "href": "internals2.memory.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Working with Variables",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Working with Variables",
+              "href": "internals2.variables.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Writing Functions",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Writing Functions",
+              "href": "internals2.funcs.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Writing Classes",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Writing Classes",
+              "href": "internals2.classes.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Working with Resources",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Working with Resources",
+              "href": "internals2.resources.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Working with INI settings",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Working with INI settings",
+              "href": "internals2.ini.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Working with streams",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Working with streams",
+              "href": "internals2.streams.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "The \"counter\" Extension - A Continuing Example",
+          "children": [
+            {
+              "tag": "a",
+              "text": "The \"counter\" Extension - A Continuing Example",
+              "href": "internals2.counter.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "The PHP 5 build system",
+          "children": [
+            {
+              "tag": "a",
+              "text": "The PHP 5 build system",
+              "href": "internals2.buildsys.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Extension structure",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Extension structure",
+              "href": "internals2.structure.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "PDO Driver How-To",
+          "children": [
+            {
+              "tag": "a",
+              "text": "PDO Driver How-To",
+              "href": "internals2.pdo.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Extension FAQs",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Extension FAQs",
+              "href": "internals2.faq.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Zend Engine 2 API reference",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Zend Engine 2 API reference",
+              "href": "internals2.apiref.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Zend Engine 2 Opcodes",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Zend Engine 2 Opcodes",
+              "href": "internals2.opcodes.html"
+            }
+          ]
+        },
+        {
+          "tag": "li",
+          "text": "Zend Engine 1",
+          "children": [
+            {
+              "tag": "a",
+              "text": "Zend Engine 1",
+              "href": "internals2.ze1.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
