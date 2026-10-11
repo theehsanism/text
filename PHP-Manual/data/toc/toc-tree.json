@@ -1,0 +1,1752 @@
+{
+  "Copyright": {
+    "tag": "li",
+    "text": "Copyright",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Copyright",
+        "href": "copyright.html"
+      }
+    ]
+  },
+  "PHP Manual": {
+    "tag": "li",
+    "text": "PHP Manual",
+    "children": [
+      {
+        "tag": "a",
+        "text": "PHP Manual",
+        "href": "manual.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "Preface",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Preface",
+                "href": "preface.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Getting Started": {
+    "tag": "li",
+    "text": "Getting Started",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Getting Started",
+        "href": "getting-started.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "Introduction",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Introduction",
+                "href": "introduction.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "A simple tutorial",
+            "children": [
+              {
+                "tag": "a",
+                "text": "A simple tutorial",
+                "href": "tutorial.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Installation and Configuration": {
+    "tag": "li",
+    "text": "Installation and Configuration",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Installation and Configuration",
+        "href": "install.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "General Installation Considerations",
+            "children": [
+              {
+                "tag": "a",
+                "text": "General Installation Considerations",
+                "href": "install.general.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installation on Unix systems",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installation on Unix systems",
+                "href": "install.unix.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installation on macOS",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installation on macOS",
+                "href": "install.macosx.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installation on Windows systems",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installation on Windows systems",
+                "href": "install.windows.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installation on Cloud Computing platforms",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installation on Cloud Computing platforms",
+                "href": "install.cloud.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "FastCGI Process Manager (FPM)",
+            "children": [
+              {
+                "tag": "a",
+                "text": "FastCGI Process Manager (FPM)",
+                "href": "install.fpm.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installation of PECL extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installation of PECL extensions",
+                "href": "install.pecl.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Problems?",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Problems?",
+                "href": "install.problems.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Runtime Configuration",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Runtime Configuration",
+                "href": "configuration.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Language Reference": {
+    "tag": "li",
+    "text": "Language Reference",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Language Reference",
+        "href": "langref.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "Basic syntax",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Basic syntax",
+                "href": "language.basic-syntax.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Types",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Types",
+                "href": "language.types.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Variables",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Variables",
+                "href": "language.variables.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Constants",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Constants",
+                "href": "language.constants.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Expressions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Expressions",
+                "href": "language.expressions.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Operators",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Operators",
+                "href": "language.operators.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Control Structures",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Control Structures",
+                "href": "language.control-structures.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Functions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Functions",
+                "href": "language.functions.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Classes and Objects",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Classes and Objects",
+                "href": "language.oop5.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Namespaces",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Namespaces",
+                "href": "language.namespaces.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Errors",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Errors",
+                "href": "language.errors.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Exceptions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Exceptions",
+                "href": "language.exceptions.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Generators",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Generators",
+                "href": "language.generators.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "References Explained",
+            "children": [
+              {
+                "tag": "a",
+                "text": "References Explained",
+                "href": "language.references.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Predefined Variables",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Predefined Variables",
+                "href": "reserved.variables.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Predefined Exceptions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Predefined Exceptions",
+                "href": "reserved.exceptions.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Predefined Interfaces and Classes",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Predefined Interfaces and Classes",
+                "href": "reserved.interfaces.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Context options and parameters",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Context options and parameters",
+                "href": "context.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Supported Protocols and Wrappers",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Supported Protocols and Wrappers",
+                "href": "wrappers.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Security": {
+    "tag": "li",
+    "text": "Security",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Security",
+        "href": "security.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "Introduction",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Introduction",
+                "href": "security.intro.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "General considerations",
+            "children": [
+              {
+                "tag": "a",
+                "text": "General considerations",
+                "href": "security.general.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installed as CGI binary",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installed as CGI binary",
+                "href": "security.cgi-bin.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installed as an Apache module",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installed as an Apache module",
+                "href": "security.apache.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Session Security",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Session Security",
+                "href": "security.sessions.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Filesystem Security",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Filesystem Security",
+                "href": "security.filesystem.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Database Security",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Database Security",
+                "href": "security.database.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Error Reporting",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Error Reporting",
+                "href": "security.errors.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Using Register Globals",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Using Register Globals",
+                "href": "security.globals.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "User Submitted Data",
+            "children": [
+              {
+                "tag": "a",
+                "text": "User Submitted Data",
+                "href": "security.variables.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Magic Quotes",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Magic Quotes",
+                "href": "security.magicquotes.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Hiding PHP",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Hiding PHP",
+                "href": "security.hiding.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Keeping Current",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Keeping Current",
+                "href": "security.current.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Features": {
+    "tag": "li",
+    "text": "Features",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Features",
+        "href": "features.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "HTTP authentication with PHP",
+            "children": [
+              {
+                "tag": "a",
+                "text": "HTTP authentication with PHP",
+                "href": "features.http-auth.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Cookies",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Cookies",
+                "href": "features.cookies.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Sessions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Sessions",
+                "href": "features.sessions.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Dealing with XForms",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Dealing with XForms",
+                "href": "features.xforms.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Handling file uploads",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Handling file uploads",
+                "href": "features.file-upload.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Using remote files",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Using remote files",
+                "href": "features.remote-files.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Connection handling",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Connection handling",
+                "href": "features.connection-handling.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Persistent Database Connections",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Persistent Database Connections",
+                "href": "features.persistent-connections.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Safe Mode",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Safe Mode",
+                "href": "features.safe-mode.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Command line usage — Using PHP from the command line",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Command line usage",
+                "href": "features.commandline.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Garbage Collection",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Garbage Collection",
+                "href": "features.gc.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "DTrace Dynamic Tracing",
+            "children": [
+              {
+                "tag": "a",
+                "text": "DTrace Dynamic Tracing",
+                "href": "features.dtrace.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Function Reference": {
+    "tag": "li",
+    "text": "Function Reference",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Function Reference",
+        "href": "funcref.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "Affecting PHP's Behaviour",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Affecting PHP's Behaviour",
+                "href": "refs.basic.php.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Audio Formats Manipulation",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Audio Formats Manipulation",
+                "href": "refs.utilspec.audio.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Authentication Services",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Authentication Services",
+                "href": "refs.remote.auth.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Command Line Specific Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Command Line Specific Extensions",
+                "href": "refs.utilspec.cmdline.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Compression and Archive Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Compression and Archive Extensions",
+                "href": "refs.compression.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Credit Card Processing",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Credit Card Processing",
+                "href": "refs.creditcard.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Cryptography Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Cryptography Extensions",
+                "href": "refs.crypto.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Database Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Database Extensions",
+                "href": "refs.database.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Date and Time Related Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Date and Time Related Extensions",
+                "href": "refs.calendar.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "File System Related Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "File System Related Extensions",
+                "href": "refs.fileprocess.file.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Human Language and Character Encoding Support",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Human Language and Character Encoding Support",
+                "href": "refs.international.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Image Processing and Generation",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Image Processing and Generation",
+                "href": "refs.utilspec.image.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Mail Related Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Mail Related Extensions",
+                "href": "refs.remote.mail.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Mathematical Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Mathematical Extensions",
+                "href": "refs.math.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Non-Text MIME Output",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Non-Text MIME Output",
+                "href": "refs.utilspec.nontext.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Process Control Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Process Control Extensions",
+                "href": "refs.fileprocess.process.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Other Basic Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Other Basic Extensions",
+                "href": "refs.basic.other.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Other Services",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Other Services",
+                "href": "refs.remote.other.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Search Engine Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Search Engine Extensions",
+                "href": "refs.search.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Server Specific Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Server Specific Extensions",
+                "href": "refs.utilspec.server.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Session Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Session Extensions",
+                "href": "refs.basic.session.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Text Processing",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Text Processing",
+                "href": "refs.basic.text.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Variable and Type Related Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Variable and Type Related Extensions",
+                "href": "refs.basic.vartype.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Web Services",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Web Services",
+                "href": "refs.webservice.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Windows Only Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Windows Only Extensions",
+                "href": "refs.utilspec.windows.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "XML Manipulation",
+            "children": [
+              {
+                "tag": "a",
+                "text": "XML Manipulation",
+                "href": "refs.xml.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "GUI Extensions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "GUI Extensions",
+                "href": "refs.ui.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "PHP at the Core: A Hacker's Guide": {
+    "tag": "li",
+    "text": "PHP at the Core: A Hacker's Guide",
+    "children": [
+      {
+        "tag": "a",
+        "text": "PHP at the Core: A Hacker's Guide",
+        "href": "internals2.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "Preface",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Preface",
+                "href": "internals2.preface.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Memory management",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Memory management",
+                "href": "internals2.memory.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Working with Variables",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Working with Variables",
+                "href": "internals2.variables.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Writing Functions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Writing Functions",
+                "href": "internals2.funcs.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Writing Classes",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Writing Classes",
+                "href": "internals2.classes.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Working with Resources",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Working with Resources",
+                "href": "internals2.resources.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Working with INI settings",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Working with INI settings",
+                "href": "internals2.ini.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Working with streams",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Working with streams",
+                "href": "internals2.streams.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "The \"counter\" Extension - A Continuing Example",
+            "children": [
+              {
+                "tag": "a",
+                "text": "The \"counter\" Extension - A Continuing Example",
+                "href": "internals2.counter.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "The PHP 5 build system",
+            "children": [
+              {
+                "tag": "a",
+                "text": "The PHP 5 build system",
+                "href": "internals2.buildsys.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Extension structure",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Extension structure",
+                "href": "internals2.structure.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "PDO Driver How-To",
+            "children": [
+              {
+                "tag": "a",
+                "text": "PDO Driver How-To",
+                "href": "internals2.pdo.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Extension FAQs",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Extension FAQs",
+                "href": "internals2.faq.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Zend Engine 2 API reference",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Zend Engine 2 API reference",
+                "href": "internals2.apiref.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Zend Engine 2 Opcodes",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Zend Engine 2 Opcodes",
+                "href": "internals2.opcodes.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Zend Engine 1",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Zend Engine 1",
+                "href": "internals2.ze1.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "FAQ": {
+    "tag": "li",
+    "text": "FAQ — FAQ: Frequently Asked Questions",
+    "children": [
+      {
+        "tag": "a",
+        "text": "FAQ",
+        "href": "faq.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "General Information",
+            "children": [
+              {
+                "tag": "a",
+                "text": "General Information",
+                "href": "faq.general.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Mailing lists",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Mailing lists",
+                "href": "faq.mailinglist.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Obtaining PHP",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Obtaining PHP",
+                "href": "faq.obtaining.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Database issues",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Database issues",
+                "href": "faq.databases.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Installation",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Installation",
+                "href": "faq.installation.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Build Problems",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Build Problems",
+                "href": "faq.build.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Using PHP",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Using PHP",
+                "href": "faq.using.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Password Hashing — Safe Password Hashing",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Password Hashing",
+                "href": "faq.passwords.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "PHP and HTML",
+            "children": [
+              {
+                "tag": "a",
+                "text": "PHP and HTML",
+                "href": "faq.html.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "PHP and COM",
+            "children": [
+              {
+                "tag": "a",
+                "text": "PHP and COM",
+                "href": "faq.com.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Miscellaneous Questions",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Miscellaneous Questions",
+                "href": "faq.misc.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Appendices": {
+    "tag": "li",
+    "text": "Appendices",
+    "children": [
+      {
+        "tag": "a",
+        "text": "Appendices",
+        "href": "appendices.html"
+      },
+      {
+        "tag": "ul",
+        "class": [
+          "chunklist",
+          "chunklist_set",
+          "chunklist_children"
+        ],
+        "children": [
+          {
+            "tag": "li",
+            "text": "History of PHP and Related Projects",
+            "children": [
+              {
+                "tag": "a",
+                "text": "History of PHP and Related Projects",
+                "href": "history.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 7.3.x to PHP 7.4.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 7.3.x to PHP 7.4.x",
+                "href": "migration74.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 7.2.x to PHP 7.3.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 7.2.x to PHP 7.3.x",
+                "href": "migration73.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 7.1.x to PHP 7.2.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 7.1.x to PHP 7.2.x",
+                "href": "migration72.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 7.0.x to PHP 7.1.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 7.0.x to PHP 7.1.x",
+                "href": "migration71.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 5.6.x to PHP 7.0.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 5.6.x to PHP 7.0.x",
+                "href": "migration70.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 5.5.x to PHP 5.6.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 5.5.x to PHP 5.6.x",
+                "href": "migration56.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 5.4.x to PHP 5.5.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 5.4.x to PHP 5.5.x",
+                "href": "migration55.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 5.3.x to PHP 5.4.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 5.3.x to PHP 5.4.x",
+                "href": "migration54.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 5.2.x to PHP 5.3.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 5.2.x to PHP 5.3.x",
+                "href": "migration53.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 5.1.x to PHP 5.2.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 5.1.x to PHP 5.2.x",
+                "href": "migration52.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 5.0.x to PHP 5.1.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 5.0.x to PHP 5.1.x",
+                "href": "migration51.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Migrating from PHP 4 to PHP 5.0.x",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Migrating from PHP 4 to PHP 5.0.x",
+                "href": "migration5.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Debugging in PHP",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Debugging in PHP",
+                "href": "debugger.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Configure options",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Configure options",
+                "href": "configure.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "php.ini directives",
+            "children": [
+              {
+                "tag": "a",
+                "text": "php.ini directives",
+                "href": "ini.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Extension List/Categorization",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Extension List/Categorization",
+                "href": "extensions.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "List of Function Aliases",
+            "children": [
+              {
+                "tag": "a",
+                "text": "List of Function Aliases",
+                "href": "aliases.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "List of Reserved Words",
+            "children": [
+              {
+                "tag": "a",
+                "text": "List of Reserved Words",
+                "href": "reserved.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "List of Resource Types",
+            "children": [
+              {
+                "tag": "a",
+                "text": "List of Resource Types",
+                "href": "resource.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "List of Available Filters",
+            "children": [
+              {
+                "tag": "a",
+                "text": "List of Available Filters",
+                "href": "filters.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "List of Supported Socket Transports",
+            "children": [
+              {
+                "tag": "a",
+                "text": "List of Supported Socket Transports",
+                "href": "transports.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "PHP type comparison tables",
+            "children": [
+              {
+                "tag": "a",
+                "text": "PHP type comparison tables",
+                "href": "types.comparisons.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "List of Parser Tokens",
+            "children": [
+              {
+                "tag": "a",
+                "text": "List of Parser Tokens",
+                "href": "tokens.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Userland Naming Guide",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Userland Naming Guide",
+                "href": "userlandnaming.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "About the manual",
+            "children": [
+              {
+                "tag": "a",
+                "text": "About the manual",
+                "href": "about.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Creative Commons Attribution 3.0",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Creative Commons Attribution 3.0",
+                "href": "cc.license.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Index listing",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Index listing",
+                "href": "indexes.html"
+              }
+            ]
+          },
+          {
+            "tag": "li",
+            "text": "Changelog",
+            "children": [
+              {
+                "tag": "a",
+                "text": "Changelog",
+                "href": "doc.changelog.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
