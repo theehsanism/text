@@ -1,0 +1,6348 @@
+{
+ "xpath": "/html/body/div[3]/div/div",
+ "formula": "tags + classes + links + children",
+ "page_types": {
+  "refentry": {
+   "pages": 11163,
+   "top_child_structures": [
+    [
+     "refnamediv > description > parameters > returnvalues",
+     2402
+    ],
+    [
+     "refnamediv > description > parameters > returnvalues > examples > seealso",
+     1812
+    ],
+    [
+     "refnamediv > description > parameters > returnvalues > seealso",
+     1502
+    ],
+    [
+     "refnamediv > description > parameters > returnvalues > examples",
+     1034
+    ],
+    [
+     "refnamediv > description",
+     573
+    ],
+    [
+     "refnamediv > description > parameters > returnvalues > errors",
+     327
+    ],
+    [
+     "refnamediv > description > parameters",
+     294
+    ],
+    [
+     "refnamediv > description > parameters > returnvalues > errors > seealso",
+     285
+    ]
+   ]
+  },
+  "section": {
+   "pages": 1462,
+   "top_child_structures": [
+    [
+     "title > para",
+     558
+    ],
+    [
+     "title > section > section",
+     126
+    ],
+    [
+     "title > para > para",
+     86
+    ],
+    [
+     "title > para > para > para",
+     51
+    ],
+    [
+     "title > simpara > para > doctable table > xref > para > para > dl",
+     40
+    ],
+    [
+     "title > para > example",
+     35
+    ],
+    [
+     "title > simpara > para > doctable table > para > para > dl",
+     32
+    ],
+    [
+     "title > section",
+     20
+    ]
+   ]
+  },
+  "reference": {
+   "pages": 960,
+   "top_child_structures": [
+    [
+     "title > partintro > h2 > chunklist chunklist_reference",
+     639
+    ],
+    [
+     "title > h2 > chunklist chunklist_reference",
+     165
+    ],
+    [
+     "title > partintro",
+     156
+    ]
+   ]
+  },
+  "chapter": {
+   "pages": 509,
+   "top_child_structures": [
+    [
+     "h1 > h2 > chunklist chunklist_chapter",
+     318
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_chapter > para",
+     11
+    ],
+    [
+     "h1 > para",
+     10
+    ],
+    [
+     "h1 > para > example",
+     7
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_chapter > para > para",
+     7
+    ],
+    [
+     "h1 > para > example > para > example",
+     3
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_chapter > para > para > para",
+     3
+    ],
+    [
+     "h1 > para > itemizedlist",
+     3
+    ]
+   ]
+  },
+  "sect1": {
+   "pages": 306,
+   "top_child_structures": [
+    [
+     "title > sect2 > sect2",
+     11
+    ],
+    [
+     "title > doctable table",
+     10
+    ],
+    [
+     "title > sect2 > sect2 > sect2 > sect2",
+     9
+    ],
+    [
+     "title > sect2",
+     8
+    ],
+    [
+     "title > sect2 > sect2 > sect2",
+     7
+    ],
+    [
+     "title > sect2 > sect2 > sect2 > sect2 > sect2 > sect2 > sect2",
+     7
+    ],
+    [
+     "title > simpara",
+     5
+    ],
+    [
+     "title > sect2 > sect2 > sect2 > sect2 > sect2",
+     5
+    ]
+   ]
+  },
+  "appendix": {
+   "pages": 268,
+   "top_child_structures": [
+    [
+     "h1 > simpara > dl",
+     58
+    ],
+    [
+     "h1 > para",
+     57
+    ],
+    [
+     "h1 > simpara > para > dl",
+     29
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_appendix",
+     11
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_appendix > simpara",
+     10
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_appendix > para",
+     7
+    ],
+    [
+     "h1 > simpara > doctable table",
+     6
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_appendix > sect1",
+     6
+    ]
+   ]
+  },
+  "book": {
+   "pages": 259,
+   "top_child_structures": [
+    [
+     "title > chunklist chunklist_book",
+     257
+    ],
+    [
+     "title > info > chunklist chunklist_book",
+     2
+    ]
+   ]
+  },
+  "preface": {
+   "pages": 241,
+   "top_child_structures": [
+    [
+     "title > para",
+     70
+    ],
+    [
+     "title > para > para",
+     26
+    ],
+    [
+     "title > para > para > para",
+     17
+    ],
+    [
+     "title > para > note",
+     14
+    ],
+    [
+     "title > para > para > para > para",
+     8
+    ],
+    [
+     "title > para > warning",
+     5
+    ],
+    [
+     "title > para > para > para > note",
+     5
+    ],
+    [
+     "title > para > para > note",
+     5
+    ]
+   ]
+  },
+  "set": {
+   "pages": 33,
+   "top_child_structures": [
+    [
+     "title > chunklist chunklist_set",
+     29
+    ],
+    [
+     "title > info > chunklist chunklist_set",
+     4
+    ]
+   ]
+  },
+  "part": {
+   "pages": 19,
+   "top_child_structures": [
+    [
+     "h1 > h2 > chunklist chunklist_part > partintro",
+     15
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_part",
+     4
+    ]
+   ]
+  },
+  "article": {
+   "pages": 16,
+   "top_child_structures": [
+    [
+     "h1 > simpara > para > doctable table > para > para > dl",
+     1
+    ],
+    [
+     "h1 > note > section > section",
+     1
+    ],
+    [
+     "h1 > para > itemizedlist",
+     1
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_article",
+     1
+    ],
+    [
+     "h1 > para > para > mediaobject > para > para > simplelist > para > para > para > para > doctable table > para",
+     1
+    ],
+    [
+     "h1 > h2 > chunklist chunklist_article > para",
+     1
+    ],
+    [
+     "h1 > para > para > para > para > note",
+     1
+    ],
+    [
+     "h1 > para > para > para > para > para > para",
+     1
+    ]
+   ]
+  },
+  "root": {
+   "pages": 1,
+   "top_child_structures": [
+    [
+     "info > simpara > simpara",
+     1
+    ]
+   ]
+  }
+ },
+ "classes": {
+  "para": {
+   "count": 76988,
+   "page_types": {
+    "preface": 231,
+    "section": 1240,
+    "chapter": 166,
+    "sect1": 246,
+    "refentry": 10946,
+    "reference": 765,
+    "part": 14,
+    "appendix": 178,
+    "set": 2,
+    "article": 15,
+    "book": 2
+   }
+  },
+  "type": {
+   "count": 76951,
+   "page_types": {
+    "section": 119,
+    "sect1": 53,
+    "refentry": 10725,
+    "reference": 725,
+    "chapter": 17,
+    "appendix": 130,
+    "preface": 9,
+    "article": 1
+   }
+  },
+  "title": {
+   "count": 50930,
+   "page_types": {
+    "root": 1,
+    "set": 33,
+    "book": 259,
+    "preface": 240,
+    "section": 1450,
+    "sect1": 306,
+    "refentry": 11146,
+    "reference": 960,
+    "chapter": 18,
+    "appendix": 12,
+    "part": 7,
+    "article": 1
+   }
+  },
+  "parameter": {
+   "count": 49960,
+   "page_types": {
+    "sect1": 33,
+    "refentry": 7996,
+    "reference": 561,
+    "section": 116,
+    "chapter": 10,
+    "appendix": 5,
+    "preface": 3,
+    "article": 2
+   }
+  },
+  "function": {
+   "count": 47800,
+   "page_types": {
+    "section": 230,
+    "sect1": 137,
+    "chapter": 53,
+    "refentry": 6066,
+    "reference": 91,
+    "appendix": 69,
+    "preface": 41,
+    "article": 6
+   }
+  },
+  "refsect1": {
+   "count": 43989,
+   "page_types": {
+    "refentry": 11163
+   }
+  },
+  "methodname": {
+   "count": 39645,
+   "page_types": {
+    "refentry": 10876,
+    "reference": 693,
+    "sect1": 30,
+    "appendix": 6,
+    "chapter": 13,
+    "section": 26,
+    "preface": 6,
+    "article": 1
+   }
+  },
+  "methodparam": {
+   "count": 33168,
+   "page_types": {
+    "refentry": 10839,
+    "reference": 685,
+    "sect1": 5,
+    "chapter": 4,
+    "preface": 2
+   }
+  },
+  "refname": {
+   "count": 23522,
+   "page_types": {
+    "refentry": 11163
+   }
+  },
+  "dc-description": {
+   "count": 20596,
+   "page_types": {
+    "refentry": 10839,
+    "reference": 685,
+    "sect1": 5,
+    "chapter": 4,
+    "preface": 2
+   }
+  },
+  "methodsynopsis": {
+   "count": 20268,
+   "page_types": {
+    "refentry": 10698,
+    "reference": 677,
+    "sect1": 5,
+    "chapter": 4,
+    "preface": 2
+   }
+  },
+  "modifier": {
+   "count": 19715,
+   "page_types": {
+    "refentry": 5158,
+    "reference": 696,
+    "sect1": 3,
+    "preface": 2
+   }
+  },
+  "index": {
+   "count": 18128,
+   "page_types": {
+    "section": 2
+   }
+  },
+  "example-contents": {
+   "count": 16593,
+   "page_types": {
+    "section": 389,
+    "sect1": 176,
+    "refentry": 4787,
+    "reference": 64,
+    "chapter": 93,
+    "appendix": 11,
+    "preface": 9,
+    "part": 2,
+    "article": 3
+   }
+  },
+  "member": {
+   "count": 15056,
+   "page_types": {
+    "sect1": 5,
+    "refentry": 5570,
+    "chapter": 6,
+    "section": 20,
+    "appendix": 1,
+    "reference": 43,
+    "preface": 10,
+    "article": 2,
+    "part": 1
+   }
+  },
+  "simpara": {
+   "count": 14387,
+   "page_types": {
+    "root": 1,
+    "preface": 56,
+    "section": 360,
+    "sect1": 171,
+    "chapter": 48,
+    "reference": 53,
+    "refentry": 2920,
+    "appendix": 163,
+    "set": 2,
+    "article": 7,
+    "part": 4
+   }
+  },
+  "literal": {
+   "count": 13983,
+   "page_types": {
+    "preface": 39,
+    "section": 260,
+    "sect1": 186,
+    "refentry": 1531,
+    "reference": 72,
+    "chapter": 81,
+    "appendix": 45,
+    "part": 1,
+    "article": 7
+   }
+  },
+  "verinfo": {
+   "count": 11897,
+   "page_types": {
+    "refentry": 11123,
+    "reference": 742,
+    "sect1": 31
+   }
+  },
+  "description": {
+   "count": 11166,
+   "page_types": {
+    "refentry": 11163
+   }
+  },
+  "refentry": {
+   "count": 11163,
+   "page_types": {
+    "refentry": 11163
+   }
+  },
+  "refnamediv": {
+   "count": 11163,
+   "page_types": {
+    "refentry": 11163
+   }
+  },
+  "refpurpose": {
+   "count": 11163,
+   "page_types": {
+    "refentry": 11163
+   }
+  },
+  "dc-title": {
+   "count": 11163,
+   "page_types": {
+    "refentry": 11163
+   }
+  },
+  "rdfs-comment": {
+   "count": 10022,
+   "page_types": {
+    "refentry": 9488
+   }
+  },
+  "returnvalues": {
+   "count": 9965,
+   "page_types": {
+    "refentry": 9961
+   }
+  },
+  "parameters": {
+   "count": 9657,
+   "page_types": {
+    "refentry": 9656
+   }
+  },
+  "link": {
+   "count": 9653,
+   "page_types": {
+    "root": 1,
+    "set": 2,
+    "preface": 137,
+    "section": 564,
+    "chapter": 75,
+    "sect1": 211,
+    "refentry": 1711,
+    "reference": 130,
+    "part": 8,
+    "appendix": 43,
+    "article": 12,
+    "book": 1
+   }
+  },
+  "phpcode": {
+   "count": 7456,
+   "page_types": {
+    "section": 328,
+    "sect1": 130,
+    "refentry": 4758,
+    "reference": 53,
+    "chapter": 75,
+    "appendix": 11,
+    "preface": 7,
+    "part": 1,
+    "article": 3
+   }
+  },
+  "example": {
+   "count": 6977,
+   "page_types": {
+    "section": 194,
+    "sect1": 99,
+    "refentry": 4724,
+    "reference": 51,
+    "chapter": 69,
+    "appendix": 12,
+    "preface": 6
+   }
+  },
+  "simplelist": {
+   "count": 6067,
+   "page_types": {
+    "sect1": 5,
+    "refentry": 5570,
+    "chapter": 6,
+    "section": 20,
+    "appendix": 1,
+    "reference": 43,
+    "preface": 10,
+    "article": 2,
+    "part": 1
+   }
+  },
+  "listitem": {
+   "count": 5936,
+   "page_types": {
+    "section": 120,
+    "sect1": 91,
+    "chapter": 45,
+    "refentry": 256,
+    "reference": 21,
+    "preface": 15,
+    "appendix": 7,
+    "part": 4,
+    "article": 3
+   }
+  },
+  "warning": {
+   "count": 5778,
+   "page_types": {
+    "sect1": 34,
+    "refentry": 2450,
+    "chapter": 15,
+    "section": 37,
+    "reference": 26,
+    "preface": 32,
+    "part": 2,
+    "appendix": 2,
+    "article": 1
+   }
+  },
+  "seealso": {
+   "count": 5528,
+   "page_types": {
+    "refentry": 5525
+   }
+  },
+  "classname": {
+   "count": 5470,
+   "page_types": {
+    "section": 59,
+    "sect1": 57,
+    "refentry": 1688,
+    "reference": 753,
+    "chapter": 28,
+    "appendix": 9,
+    "preface": 9,
+    "part": 5,
+    "article": 4
+   }
+  },
+  "note": {
+   "count": 5318,
+   "page_types": {
+    "section": 139,
+    "sect1": 95,
+    "chapter": 35,
+    "refentry": 1399,
+    "reference": 52,
+    "appendix": 16,
+    "preface": 64,
+    "article": 4,
+    "part": 1
+   }
+  },
+  "integer": {
+   "count": 5316,
+   "page_types": {
+    "section": 67,
+    "sect1": 21,
+    "reference": 10,
+    "refentry": 220,
+    "chapter": 5,
+    "appendix": 119,
+    "preface": 2
+   }
+  },
+  "varname": {
+   "count": 5023,
+   "page_types": {
+    "section": 39,
+    "sect1": 62,
+    "reference": 375,
+    "chapter": 17,
+    "refentry": 176,
+    "appendix": 6,
+    "preface": 2
+   }
+  },
+  "initializer": {
+   "count": 4817,
+   "page_types": {
+    "reference": 296,
+    "refentry": 1319,
+    "sect1": 2,
+    "chapter": 3
+   }
+  },
+  "examples": {
+   "count": 4750,
+   "page_types": {
+    "refentry": 4748
+   }
+  },
+  "empty": {
+   "count": 4204,
+   "page_types": {
+    "sect1": 16,
+    "refentry": 28,
+    "section": 195,
+    "appendix": 10,
+    "reference": 5,
+    "chapter": 8,
+    "preface": 2,
+    "article": 1
+   }
+  },
+  "cdata": {
+   "count": 4062,
+   "page_types": {
+    "section": 107,
+    "sect1": 91,
+    "refentry": 2744,
+    "reference": 39,
+    "chapter": 40,
+    "appendix": 4,
+    "preface": 2
+   }
+  },
+  "section": {
+   "count": 3969,
+   "page_types": {
+    "preface": 10,
+    "section": 1462,
+    "reference": 773,
+    "part": 6,
+    "chapter": 12,
+    "article": 1
+   }
+  },
+  "screen": {
+   "count": 3910,
+   "page_types": {
+    "section": 88,
+    "sect1": 79,
+    "refentry": 2740,
+    "reference": 39,
+    "chapter": 34,
+    "appendix": 4,
+    "preface": 2
+   }
+  },
+  "fieldsynopsis": {
+   "count": 3329,
+   "page_types": {
+    "reference": 370,
+    "refentry": 58
+   }
+  },
+  "void": {
+   "count": 2980,
+   "page_types": {
+    "refentry": 1354,
+    "reference": 413,
+    "sect1": 8,
+    "chapter": 3,
+    "preface": 1
+   }
+  },
+  "chunklist": {
+   "count": 2927,
+   "page_types": {
+    "set": 33,
+    "book": 259,
+    "chapter": 361,
+    "reference": 804,
+    "part": 19,
+    "appendix": 38,
+    "article": 2
+   }
+  },
+  "mixed": {
+   "count": 2637,
+   "page_types": {
+    "sect1": 6,
+    "refentry": 1224,
+    "reference": 311,
+    "chapter": 3,
+    "appendix": 2,
+    "section": 3
+   }
+  },
+  "emphasis": {
+   "count": 2173,
+   "page_types": {
+    "section": 90,
+    "sect1": 54,
+    "refentry": 1037,
+    "chapter": 41,
+    "appendix": 12,
+    "reference": 33,
+    "preface": 30,
+    "part": 1,
+    "article": 7
+   }
+  },
+  "classsynopsisinfo": {
+   "count": 2100,
+   "page_types": {
+    "reference": 743
+   }
+  },
+  "doctable": {
+   "count": 1796,
+   "page_types": {
+    "sect1": 60,
+    "refentry": 971,
+    "section": 306,
+    "chapter": 20,
+    "appendix": 40,
+    "reference": 50,
+    "preface": 4,
+    "article": 4,
+    "part": 2
+   }
+  },
+  "tbody": {
+   "count": 1790,
+   "page_types": {
+    "sect1": 60,
+    "refentry": 971,
+    "section": 306,
+    "chapter": 20,
+    "appendix": 35,
+    "reference": 50,
+    "preface": 4,
+    "article": 4,
+    "part": 2
+   }
+  },
+  "external": {
+   "count": 1772,
+   "page_types": {
+    "root": 1,
+    "preface": 103,
+    "section": 292,
+    "sect1": 58,
+    "chapter": 31,
+    "refentry": 404,
+    "appendix": 12,
+    "reference": 62,
+    "part": 3,
+    "article": 6,
+    "set": 1
+   }
+  },
+  "ooclass": {
+   "count": 1763,
+   "page_types": {
+    "reference": 743
+   }
+  },
+  "filename": {
+   "count": 1717,
+   "page_types": {
+    "section": 343,
+    "sect1": 67,
+    "refentry": 180,
+    "chapter": 29,
+    "reference": 10,
+    "appendix": 9,
+    "preface": 7,
+    "article": 1
+   }
+  },
+  "reference": {
+   "count": 1454,
+   "page_types": {
+    "reference": 960,
+    "refentry": 281
+   }
+  },
+  "chunklist_children": {
+   "count": 1411,
+   "page_types": {
+    "set": 33,
+    "book": 255
+   }
+  },
+  "chunklist_book": {
+   "count": 1379,
+   "page_types": {
+    "book": 259
+   }
+  },
+  "classsynopsisinfo_comment": {
+   "count": 1355,
+   "page_types": {
+    "reference": 714
+   }
+  },
+  "errors": {
+   "count": 1324,
+   "page_types": {
+    "refentry": 1324
+   }
+  },
+  "xref": {
+   "count": 1233,
+   "page_types": {
+    "sect1": 18,
+    "refentry": 284,
+    "chapter": 9,
+    "section": 70,
+    "appendix": 6,
+    "reference": 16,
+    "set": 1,
+    "preface": 5,
+    "part": 3
+   }
+  },
+  "string": {
+   "count": 1206,
+   "page_types": {
+    "sect1": 30,
+    "refentry": 364,
+    "chapter": 8,
+    "section": 72,
+    "appendix": 46,
+    "reference": 4,
+    "preface": 2,
+    "article": 1
+   }
+  },
+  "informaltable": {
+   "count": 1078,
+   "page_types": {
+    "sect1": 16,
+    "refentry": 793,
+    "appendix": 8,
+    "reference": 37,
+    "section": 130,
+    "chapter": 5,
+    "part": 1
+   }
+  },
+  "itemizedlist": {
+   "count": 1070,
+   "page_types": {
+    "section": 113,
+    "sect1": 78,
+    "chapter": 42,
+    "refentry": 250,
+    "reference": 20,
+    "preface": 15,
+    "appendix": 6,
+    "part": 4,
+    "article": 1
+   }
+  },
+  "interfacename": {
+   "count": 920,
+   "page_types": {
+    "reference": 200,
+    "sect1": 7,
+    "refentry": 30,
+    "section": 2
+   }
+  },
+  "partintro": {
+   "count": 810,
+   "page_types": {
+    "reference": 795,
+    "part": 15
+   }
+  },
+  "chunklist_reference": {
+   "count": 804,
+   "page_types": {
+    "reference": 804
+   }
+  },
+  "notes": {
+   "count": 761,
+   "page_types": {
+    "refentry": 758
+   }
+  },
+  "classsynopsis": {
+   "count": 743,
+   "page_types": {
+    "reference": 743
+   }
+  },
+  "changelog": {
+   "count": 731,
+   "page_types": {
+    "refentry": 731
+   }
+  },
+  "sect2": {
+   "count": 724,
+   "page_types": {
+    "sect1": 144
+   }
+  },
+  "table": {
+   "count": 718,
+   "page_types": {
+    "sect1": 47,
+    "refentry": 244,
+    "section": 180,
+    "chapter": 16,
+    "appendix": 33,
+    "reference": 13,
+    "preface": 4,
+    "article": 4,
+    "part": 1
+   }
+  },
+  "code": {
+   "count": 618,
+   "page_types": {
+    "section": 6,
+    "sect1": 16,
+    "chapter": 5,
+    "reference": 4,
+    "refentry": 44,
+    "appendix": 1,
+    "preface": 1
+   }
+  },
+  "callable": {
+   "count": 572,
+   "page_types": {
+    "reference": 67,
+    "refentry": 294,
+    "sect1": 7,
+    "chapter": 2,
+    "section": 1
+   }
+  },
+  "chapter": {
+   "count": 509,
+   "page_types": {
+    "chapter": 509
+   }
+  },
+  "array": {
+   "count": 505,
+   "page_types": {
+    "refentry": 269,
+    "sect1": 23,
+    "chapter": 1,
+    "reference": 7,
+    "preface": 1,
+    "section": 3,
+    "appendix": 2
+   }
+  },
+  "informalexample": {
+   "count": 478,
+   "page_types": {
+    "sect1": 88,
+    "refentry": 37,
+    "chapter": 9,
+    "section": 21,
+    "reference": 1,
+    "preface": 2,
+    "article": 1
+   }
+  },
+  "resource": {
+   "count": 439,
+   "page_types": {
+    "sect1": 9,
+    "refentry": 340,
+    "preface": 2,
+    "section": 1,
+    "reference": 1
+   }
+  },
+  "option": {
+   "count": 403,
+   "page_types": {
+    "sect1": 14,
+    "refentry": 21,
+    "section": 98,
+    "chapter": 4,
+    "appendix": 2,
+    "reference": 5
+   }
+  },
+  "caution": {
+   "count": 396,
+   "page_types": {
+    "sect1": 13,
+    "reference": 4,
+    "refentry": 134,
+    "section": 15,
+    "preface": 8,
+    "appendix": 2,
+    "chapter": 3,
+    "article": 1
+   }
+  },
+  "chunklist_chapter": {
+   "count": 361,
+   "page_types": {
+    "chapter": 361
+   }
+  },
+  "int": {
+   "count": 359,
+   "page_types": {
+    "sect1": 7,
+    "refentry": 50,
+    "appendix": 8,
+    "section": 11,
+    "preface": 1
+   }
+  },
+  "configure": {
+   "count": 353,
+   "page_types": {
+    "sect1": 9,
+    "section": 94,
+    "appendix": 1,
+    "refentry": 14,
+    "reference": 5,
+    "chapter": 2
+   }
+  },
+  "oointerface": {
+   "count": 336,
+   "page_types": {
+    "reference": 195
+   }
+  },
+  "SolrQuery": {
+   "count": 330,
+   "page_types": {
+    "reference": 2,
+    "chapter": 1,
+    "refentry": 107
+   }
+  },
+  "constructorsynopsis": {
+   "count": 328,
+   "page_types": {
+    "reference": 118,
+    "refentry": 152,
+    "preface": 2
+   }
+  },
+  "chunklist_set": {
+   "count": 324,
+   "page_types": {
+    "set": 33
+   }
+  },
+  "sect1": {
+   "count": 313,
+   "page_types": {
+    "sect1": 306,
+    "chapter": 1,
+    "appendix": 6
+   }
+  },
+  "boolean": {
+   "count": 290,
+   "page_types": {
+    "sect1": 14,
+    "refentry": 52,
+    "chapter": 4,
+    "section": 36,
+    "appendix": 2,
+    "reference": 2
+   }
+  },
+  "DOMNode": {
+   "count": 277,
+   "page_types": {
+    "reference": 19,
+    "refentry": 18
+   }
+  },
+  "seg": {
+   "count": 272,
+   "page_types": {
+    "refentry": 1,
+    "chapter": 1,
+    "sect1": 1
+   }
+  },
+  "appendix": {
+   "count": 268,
+   "page_types": {
+    "appendix": 268
+   }
+  },
+  "book": {
+   "count": 259,
+   "page_types": {
+    "book": 259
+   }
+  },
+  "sect3": {
+   "count": 253,
+   "page_types": {
+    "sect1": 26
+   }
+  },
+  "envar": {
+   "count": 251,
+   "page_types": {
+    "sect1": 7,
+    "refentry": 3,
+    "section": 27,
+    "chapter": 2,
+    "reference": 1
+   }
+  },
+  "CommonMark\\Node": {
+   "count": 244,
+   "page_types": {
+    "reference": 23,
+    "refentry": 12,
+    "preface": 1
+   }
+  },
+  "preface": {
+   "count": 241,
+   "page_types": {
+    "preface": 241
+   }
+  },
+  "command": {
+   "count": 231,
+   "page_types": {
+    "sect1": 32,
+    "chapter": 5,
+    "refentry": 32,
+    "section": 20,
+    "reference": 5,
+    "preface": 1,
+    "appendix": 1
+   }
+  },
+  "inicode": {
+   "count": 226,
+   "page_types": {
+    "sect1": 5,
+    "reference": 1,
+    "section": 35,
+    "refentry": 8,
+    "preface": 1,
+    "chapter": 3
+   }
+  },
+  "tip": {
+   "count": 204,
+   "page_types": {
+    "sect1": 6,
+    "chapter": 2,
+    "section": 5,
+    "reference": 2,
+    "refentry": 74,
+    "set": 1,
+    "preface": 3
+   }
+  },
+  "ccode": {
+   "count": 202,
+   "page_types": {
+    "section": 2,
+    "sect1": 11
+   }
+  },
+  "Gmagick": {
+   "count": 174,
+   "page_types": {
+    "reference": 1,
+    "refentry": 85
+   }
+  },
+  "shellcode": {
+   "count": 168,
+   "page_types": {
+    "sect1": 9,
+    "section": 12,
+    "reference": 2,
+    "refentry": 5,
+    "part": 2,
+    "chapter": 5
+   }
+  },
+  "replaceable": {
+   "count": 163,
+   "page_types": {
+    "sect1": 4,
+    "refentry": 85,
+    "reference": 1,
+    "section": 2,
+    "article": 1
+   }
+  },
+  "IntlCalendar": {
+   "count": 158,
+   "page_types": {
+    "reference": 3,
+    "refentry": 43
+   }
+  },
+  "gen-changelog": {
+   "count": 157,
+   "page_types": {
+    "appendix": 6
+   }
+  },
+  "object": {
+   "count": 151,
+   "page_types": {
+    "refentry": 65,
+    "sect1": 16,
+    "reference": 1,
+    "section": 3
+   }
+  },
+  "ReturnType": {
+   "count": 130,
+   "page_types": {
+    "reference": 12,
+    "refentry": 61
+   }
+  },
+  "float": {
+   "count": 127,
+   "page_types": {
+    "refentry": 65,
+    "sect1": 17,
+    "chapter": 1,
+    "reference": 1,
+    "section": 2,
+    "preface": 3,
+    "appendix": 2
+   }
+  },
+  "CairoContext": {
+   "count": 115,
+   "page_types": {
+    "refentry": 115
+   }
+  },
+  "Throwable": {
+   "count": 110,
+   "page_types": {
+    "reference": 86,
+    "refentry": 8
+   }
+  },
+  "?Node": {
+   "count": 110,
+   "page_types": {
+    "reference": 22
+   }
+  },
+  "qandaentry": {
+   "count": 102,
+   "page_types": {
+    "chapter": 11
+   }
+  },
+  "answer": {
+   "count": 102,
+   "page_types": {
+    "chapter": 11
+   }
+  },
+  "mysqlnd_connection": {
+   "count": 98,
+   "page_types": {
+    "reference": 1,
+    "refentry": 49
+   }
+  },
+  "GMP": {
+   "count": 89,
+   "page_types": {
+    "refentry": 48
+   }
+  },
+  "Imagick": {
+   "count": 86,
+   "page_types": {
+    "reference": 3,
+    "refentry": 40
+   }
+  },
+  "imageobject": {
+   "count": 84,
+   "page_types": {
+    "sect1": 7,
+    "refentry": 47,
+    "section": 3,
+    "preface": 1,
+    "article": 1,
+    "chapter": 2
+   }
+  },
+  "mediaobject": {
+   "count": 83,
+   "page_types": {
+    "sect1": 7,
+    "refentry": 47,
+    "section": 3,
+    "preface": 1,
+    "article": 1,
+    "chapter": 2
+   }
+  },
+  "SolrDisMaxQuery": {
+   "count": 81,
+   "page_types": {
+    "reference": 1,
+    "refentry": 27
+   }
+  },
+  "seglistitem": {
+   "count": 72,
+   "page_types": {
+    "refentry": 1,
+    "chapter": 1,
+    "sect1": 1
+   }
+  },
+  "mysqli": {
+   "count": 68,
+   "page_types": {
+    "reference": 2,
+    "refentry": 65
+   }
+  },
+  "xmlcode": {
+   "count": 66,
+   "page_types": {
+    "chapter": 2,
+    "refentry": 5,
+    "section": 9
+   }
+  },
+  "userinput": {
+   "count": 64,
+   "page_types": {
+    "sect1": 2,
+    "section": 7,
+    "refentry": 18,
+    "reference": 2
+   }
+  },
+  "UI\\Control": {
+   "count": 58,
+   "page_types": {
+    "reference": 22,
+    "refentry": 8
+   }
+  },
+  "DateTime": {
+   "count": 56,
+   "page_types": {
+    "reference": 7,
+    "refentry": 17,
+    "section": 1
+   }
+  },
+  "Iterator": {
+   "count": 55,
+   "page_types": {
+    "refentry": 20,
+    "reference": 18
+   }
+  },
+  "apache-confcode": {
+   "count": 54,
+   "page_types": {
+    "sect1": 4,
+    "chapter": 3,
+    "section": 2
+   }
+  },
+  "simplesect": {
+   "count": 54,
+   "page_types": {
+    "chapter": 7,
+    "sect1": 1,
+    "appendix": 2,
+    "reference": 4,
+    "section": 7,
+    "preface": 1
+   }
+  },
+  "GmagickDraw": {
+   "count": 52,
+   "page_types": {
+    "reference": 2,
+    "refentry": 26
+   }
+  },
+  "unknown": {
+   "count": 50,
+   "page_types": {
+    "sect1": 6,
+    "refentry": 7,
+    "section": 6,
+    "chapter": 2,
+    "appendix": 1
+   }
+  },
+  "productname": {
+   "count": 49,
+   "page_types": {
+    "sect1": 8,
+    "refentry": 4,
+    "section": 8,
+    "preface": 3
+   }
+  },
+  "Closure": {
+   "count": 49,
+   "page_types": {
+    "reference": 7,
+    "refentry": 22
+   }
+  },
+  "formalpara": {
+   "count": 46,
+   "page_types": {
+    "sect1": 2,
+    "reference": 1,
+    "refentry": 9,
+    "preface": 2,
+    "appendix": 1
+   }
+  },
+  "UI\\Point": {
+   "count": 46,
+   "page_types": {
+    "reference": 8,
+    "refentry": 18
+   }
+  },
+  "number": {
+   "count": 45,
+   "page_types": {
+    "sect1": 2,
+    "reference": 11,
+    "refentry": 18
+   }
+  },
+  "bool": {
+   "count": 44,
+   "page_types": {
+    "sect1": 5,
+    "section": 11,
+    "appendix": 2,
+    "refentry": 10,
+    "preface": 2,
+    "chapter": 1
+   }
+  },
+  "property": {
+   "count": 44,
+   "page_types": {
+    "reference": 2,
+    "refentry": 7,
+    "section": 3
+   }
+  },
+  "soft-deprecation-notice": {
+   "count": 43,
+   "page_types": {
+    "refentry": 43
+   }
+  },
+  "exceptions": {
+   "count": 42,
+   "page_types": {
+    "refentry": 42
+   }
+  },
+  "Yaf_Request_Abstract": {
+   "count": 41,
+   "page_types": {
+    "reference": 12,
+    "refentry": 19
+   }
+  },
+  "htmlcode": {
+   "count": 40,
+   "page_types": {
+    "section": 1,
+    "sect1": 4,
+    "chapter": 4,
+    "refentry": 2
+   }
+  },
+  "array|object": {
+   "count": 40,
+   "page_types": {
+    "sect1": 1,
+    "reference": 8,
+    "refentry": 12
+   }
+  },
+  "CairoMatrix": {
+   "count": 40,
+   "page_types": {
+    "refentry": 17,
+    "reference": 7
+   }
+  },
+  "quote": {
+   "count": 38,
+   "page_types": {
+    "sect1": 4,
+    "reference": 1,
+    "refentry": 4,
+    "chapter": 5,
+    "appendix": 5,
+    "section": 2
+   }
+  },
+  "chunklist_appendix": {
+   "count": 38,
+   "page_types": {
+    "appendix": 38
+   }
+  },
+  "DOMDocument": {
+   "count": 36,
+   "page_types": {
+    "reference": 18,
+    "refentry": 7
+   }
+  },
+  "MongoCursor": {
+   "count": 36,
+   "page_types": {
+    "reference": 2,
+    "refentry": 18
+   }
+  },
+  "TokyoTyrant": {
+   "count": 36,
+   "page_types": {
+    "reference": 3,
+    "refentry": 9
+   }
+  },
+  "info": {
+   "count": 35,
+   "page_types": {
+    "root": 1,
+    "set": 4,
+    "preface": 1,
+    "section": 8,
+    "chapter": 3,
+    "reference": 1,
+    "book": 2
+   }
+  },
+  "CairoSurface": {
+   "count": 35,
+   "page_types": {
+    "refentry": 23,
+    "reference": 7
+   }
+  },
+  "DateTimeZone": {
+   "count": 35,
+   "page_types": {
+    "reference": 4,
+    "refentry": 14
+   }
+  },
+  "set": {
+   "count": 33,
+   "page_types": {
+    "set": 33
+   }
+  },
+  "systemitem": {
+   "count": 32,
+   "page_types": {
+    "sect1": 2,
+    "refentry": 1,
+    "section": 1
+   }
+  },
+  "Ds\\Map": {
+   "count": 32,
+   "page_types": {
+    "reference": 1,
+    "refentry": 12
+   }
+  },
+  "mysqli_stmt": {
+   "count": 31,
+   "page_types": {
+    "reference": 1,
+    "refentry": 27
+   }
+  },
+  "synopsis": {
+   "count": 30,
+   "page_types": {
+    "sect1": 2
+   }
+  },
+  "Ds\\Set": {
+   "count": 30,
+   "page_types": {
+    "reference": 2,
+    "refentry": 11
+   }
+  },
+  "mysql_xdevapi\\Result": {
+   "count": 30,
+   "page_types": {
+    "reference": 10,
+    "refentry": 15
+   }
+  },
+  "mysqli_result": {
+   "count": 30,
+   "page_types": {
+    "reference": 2,
+    "refentry": 20
+   }
+  },
+  "Yaf_Dispatcher": {
+   "count": 30,
+   "page_types": {
+    "reference": 2,
+    "refentry": 15
+   }
+  },
+  "descriptioncode": {
+   "count": 30,
+   "page_types": {
+    "refentry": 12
+   }
+  },
+  "sidebar": {
+   "count": 30,
+   "page_types": {
+    "refentry": 30
+   }
+  },
+  "gen-index": {
+   "count": 30,
+   "page_types": {
+    "section": 2
+   }
+  },
+  "variant": {
+   "count": 29,
+   "page_types": {
+    "reference": 1,
+    "refentry": 27
+   }
+  },
+  "CairoFontOptions": {
+   "count": 28,
+   "page_types": {
+    "refentry": 21,
+    "reference": 3
+   }
+  },
+  "DateTimeInterface": {
+   "count": 28,
+   "page_types": {
+    "reference": 5,
+    "refentry": 9
+   }
+  },
+  "EventBase": {
+   "count": 28,
+   "page_types": {
+    "reference": 6,
+    "refentry": 14
+   }
+  },
+  "FFI\\CData": {
+   "count": 28,
+   "page_types": {
+    "reference": 1,
+    "refentry": 9
+   }
+  },
+  "ImagickPixel": {
+   "count": 28,
+   "page_types": {
+    "reference": 3,
+    "refentry": 14
+   }
+  },
+  "txtcode": {
+   "count": 28,
+   "page_types": {
+    "reference": 1,
+    "section": 3,
+    "refentry": 8,
+    "part": 1
+   }
+  },
+  "examplescode": {
+   "count": 28,
+   "page_types": {
+    "refentry": 10
+   }
+  },
+  "DateTimeImmutable": {
+   "count": 27,
+   "page_types": {
+    "reference": 2,
+    "refentry": 13
+   }
+  },
+  "scalar": {
+   "count": 26,
+   "page_types": {
+    "reference": 10,
+    "refentry": 12,
+    "sect1": 1
+   }
+  },
+  "sqlcode": {
+   "count": 26,
+   "page_types": {
+    "sect1": 1,
+    "refentry": 2,
+    "section": 4,
+    "chapter": 1
+   }
+  },
+  "CommonMark\\Interfaces\\IVisitor": {
+   "count": 26,
+   "page_types": {
+    "reference": 23,
+    "refentry": 2,
+    "preface": 1
+   }
+  },
+  "DateInterval": {
+   "count": 26,
+   "page_types": {
+    "reference": 5,
+    "refentry": 8
+   }
+  },
+  "IntlBreakIterator": {
+   "count": 26,
+   "page_types": {
+    "reference": 4,
+    "refentry": 7
+   }
+  },
+  "UI\\Draw\\Color": {
+   "count": 26,
+   "page_types": {
+    "reference": 8,
+    "refentry": 10
+   }
+  },
+  "exceptionname": {
+   "count": 26,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "Definition": {
+   "count": 25,
+   "page_types": {
+    "reference": 3,
+    "refentry": 8
+   }
+  },
+  "DOMNodeList": {
+   "count": 24,
+   "page_types": {
+    "reference": 15,
+    "refentry": 5
+   }
+  },
+  "EventBuffer": {
+   "count": 24,
+   "page_types": {
+    "reference": 3,
+    "refentry": 11
+   }
+  },
+  "RarArchive": {
+   "count": 24,
+   "page_types": {
+    "reference": 1,
+    "section": 1,
+    "refentry": 10
+   }
+  },
+  "SimpleXMLElement": {
+   "count": 24,
+   "page_types": {
+    "reference": 2,
+    "refentry": 9,
+    "section": 1
+   }
+  },
+  "SolrUpdateResponse": {
+   "count": 24,
+   "page_types": {
+    "reference": 1,
+    "refentry": 10
+   }
+  },
+  "procedure": {
+   "count": 23,
+   "page_types": {
+    "sect1": 2,
+    "section": 6,
+    "preface": 1,
+    "reference": 2,
+    "chapter": 1
+   }
+  },
+  "IntlTimeZone": {
+   "count": 23,
+   "page_types": {
+    "reference": 4,
+    "refentry": 9
+   }
+  },
+  "RuntimeException": {
+   "count": 23,
+   "page_types": {
+    "refentry": 15
+   }
+  },
+  "options": {
+   "count": 22,
+   "page_types": {
+    "refentry": 22
+   }
+  },
+  "php.inicode": {
+   "count": 22,
+   "page_types": {
+    "section": 5,
+    "preface": 1,
+    "chapter": 1
+   }
+  },
+  "DOMAttr": {
+   "count": 22,
+   "page_types": {
+    "reference": 2,
+    "refentry": 9
+   }
+  },
+  "GmagickPixel": {
+   "count": 22,
+   "page_types": {
+    "reference": 3,
+    "refentry": 11
+   }
+  },
+  "mysql_xdevapi\\CollectionModify": {
+   "count": 22,
+   "page_types": {
+    "reference": 2,
+    "refentry": 11
+   }
+  },
+  "UI\\Size": {
+   "count": 22,
+   "page_types": {
+    "reference": 5,
+    "refentry": 9
+   }
+  },
+  "ZMQSocket": {
+   "count": 22,
+   "page_types": {
+    "reference": 3,
+    "refentry": 9
+   }
+  },
+  "MongoCollection": {
+   "count": 21,
+   "page_types": {
+    "reference": 9,
+    "refentry": 9
+   }
+  },
+  "RecursiveIterator": {
+   "count": 21,
+   "page_types": {
+    "reference": 7,
+    "refentry": 9
+   }
+  },
+  "SolrCollapseFunction": {
+   "count": 21,
+   "page_types": {
+    "reference": 3,
+    "refentry": 7
+   }
+  },
+  "tidy": {
+   "count": 21,
+   "page_types": {
+    "refentry": 21
+   }
+  },
+  "IntlDateFormatter": {
+   "count": 20,
+   "page_types": {
+    "reference": 1,
+    "refentry": 18
+   }
+  },
+  "MongoDB\\Driver\\Cursor": {
+   "count": 20,
+   "page_types": {
+    "reference": 2,
+    "refentry": 10
+   }
+  },
+  "mysql_xdevapi\\CollectionFind": {
+   "count": 20,
+   "page_types": {
+    "reference": 2,
+    "refentry": 10
+   }
+  },
+  "mysql_xdevapi\\TableSelect": {
+   "count": 20,
+   "page_types": {
+    "reference": 2,
+    "refentry": 10
+   }
+  },
+  "textcode": {
+   "count": 20,
+   "page_types": {
+    "refentry": 1,
+    "section": 2,
+    "chapter": 1
+   }
+  },
+  "part": {
+   "count": 19,
+   "page_types": {
+    "part": 19
+   }
+  },
+  "chunklist_part": {
+   "count": 19,
+   "page_types": {
+    "part": 19
+   }
+  },
+  "NumberFormatter": {
+   "count": 19,
+   "page_types": {
+    "reference": 1,
+    "refentry": 17
+   }
+  },
+  "Yaf_Response_Abstract": {
+   "count": 19,
+   "page_types": {
+    "reference": 4,
+    "refentry": 9
+   }
+  },
+  "footnote": {
+   "count": 19,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "Traversable": {
+   "count": 18,
+   "page_types": {
+    "reference": 7,
+    "refentry": 7
+   }
+  },
+  "computeroutput": {
+   "count": 18,
+   "page_types": {
+    "sect1": 6,
+    "refentry": 1,
+    "section": 1
+   }
+  },
+  "literallayout": {
+   "count": 18,
+   "page_types": {
+    "sect1": 1,
+    "refentry": 5,
+    "preface": 1,
+    "chapter": 1
+   }
+  },
+  "?string": {
+   "count": 18,
+   "page_types": {
+    "reference": 11,
+    "refentry": 2
+   }
+  },
+  "string|array": {
+   "count": 18,
+   "page_types": {
+    "reference": 7,
+    "refentry": 8
+   }
+  },
+  "ReflectionClass": {
+   "count": 18,
+   "page_types": {
+    "reference": 8,
+    "refentry": 8
+   }
+  },
+  "parameterscode": {
+   "count": 18,
+   "page_types": {
+    "refentry": 9
+   }
+  },
+  "autoconfcode": {
+   "count": 18,
+   "page_types": {
+    "sect1": 3
+   }
+  },
+  "null": {
+   "count": 17,
+   "page_types": {
+    "sect1": 4,
+    "reference": 1,
+    "refentry": 8
+   }
+  },
+  "NULL": {
+   "count": 17,
+   "page_types": {
+    "sect1": 3,
+    "refentry": 4,
+    "section": 1,
+    "appendix": 1
+   }
+  },
+  "CairoPattern": {
+   "count": 16,
+   "page_types": {
+    "refentry": 12,
+    "reference": 1
+   }
+  },
+  "DOMNamedNodeMap": {
+   "count": 16,
+   "page_types": {
+    "reference": 14
+   }
+  },
+  "Ds\\Sequence": {
+   "count": 16,
+   "page_types": {
+    "reference": 2,
+    "refentry": 8
+   }
+  },
+  "GearmanTask": {
+   "count": 16,
+   "page_types": {
+    "reference": 2,
+    "refentry": 8
+   }
+  },
+  "MongoDB\\Driver\\Command": {
+   "count": 16,
+   "page_types": {
+    "reference": 2,
+    "refentry": 8
+   }
+  },
+  "SWFShape": {
+   "count": 16,
+   "page_types": {
+    "reference": 3,
+    "refentry": 8
+   }
+  },
+  "javascriptcode": {
+   "count": 16,
+   "page_types": {
+    "chapter": 2,
+    "refentry": 2,
+    "sect1": 1
+   }
+  },
+  "article": {
+   "count": 16,
+   "page_types": {
+    "article": 16
+   }
+  },
+  "Collator": {
+   "count": 15,
+   "page_types": {
+    "reference": 1,
+    "refentry": 13
+   }
+  },
+  "EvLoop": {
+   "count": 15,
+   "page_types": {
+    "reference": 13,
+    "refentry": 2
+   }
+  },
+  "tidyNode": {
+   "count": 15,
+   "page_types": {
+    "reference": 2,
+    "refentry": 5
+   }
+  },
+  "InvalidArgumentException": {
+   "count": 15,
+   "page_types": {
+    "refentry": 5
+   }
+  },
+  "hw_api_object": {
+   "count": 15,
+   "page_types": {
+    "refentry": 15
+   }
+  },
+  "CairoScaledFont": {
+   "count": 14,
+   "page_types": {
+    "refentry": 12,
+    "reference": 1
+   }
+  },
+  "Ds\\Deque": {
+   "count": 14,
+   "page_types": {
+    "reference": 1,
+    "refentry": 7
+   }
+  },
+  "Ds\\Vector": {
+   "count": 14,
+   "page_types": {
+    "reference": 1,
+    "refentry": 7
+   }
+  },
+  "ImagickDraw": {
+   "count": 14,
+   "page_types": {
+    "reference": 2,
+    "refentry": 7
+   }
+  },
+  "MongoDB": {
+   "count": 14,
+   "page_types": {
+    "reference": 5,
+    "refentry": 5
+   }
+  },
+  "MongoDB\\Driver\\Server": {
+   "count": 14,
+   "page_types": {
+    "reference": 7,
+    "refentry": 7
+   }
+  },
+  "mysql_xdevapi\\TableUpdate": {
+   "count": 14,
+   "page_types": {
+    "reference": 2,
+    "refentry": 7
+   }
+  },
+  "UI\\Draw\\Path": {
+   "count": 14,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "returnvaluescode": {
+   "count": 14,
+   "page_types": {
+    "refentry": 7
+   }
+  },
+  "SDO_DataObject": {
+   "count": 14,
+   "page_types": {
+    "refentry": 13
+   }
+  },
+  "array|null": {
+   "count": 13,
+   "page_types": {
+    "reference": 12,
+    "refentry": 1
+   }
+  },
+  "refsect2": {
+   "count": 12,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "object|null": {
+   "count": 12,
+   "page_types": {
+    "reference": 6,
+    "refentry": 6
+   }
+  },
+  "SolrParams": {
+   "count": 12,
+   "page_types": {
+    "reference": 3,
+    "refentry": 4
+   }
+  },
+  "ZMQDevice": {
+   "count": 12,
+   "page_types": {
+    "reference": 1,
+    "refentry": 6
+   }
+  },
+  "sect4": {
+   "count": 11,
+   "page_types": {
+    "sect1": 5
+   }
+  },
+  "usage": {
+   "count": 11,
+   "page_types": {
+    "refentry": 11
+   }
+  },
+  "Phar": {
+   "count": 11,
+   "page_types": {
+    "reference": 2,
+    "refentry": 4
+   }
+  },
+  "Transliterator": {
+   "count": 11,
+   "page_types": {
+    "reference": 1,
+    "refentry": 5
+   }
+  },
+  "qandaset": {
+   "count": 11,
+   "page_types": {
+    "chapter": 11
+   }
+  },
+  "qandaset_questions": {
+   "count": 11,
+   "page_types": {
+    "chapter": 11
+   }
+  },
+  "personname": {
+   "count": 10,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "fn": {
+   "count": 10,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "Boolean": {
+   "count": 10,
+   "page_types": {
+    "sect1": 1,
+    "refentry": 1
+   }
+  },
+  "CairoImageSurface": {
+   "count": 10,
+   "page_types": {
+    "refentry": 9,
+    "reference": 1
+   }
+  },
+  "EventBufferEvent": {
+   "count": 10,
+   "page_types": {
+    "reference": 2,
+    "chapter": 1,
+    "refentry": 3
+   }
+  },
+  "FFI\\CType": {
+   "count": 10,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "ImagickKernel": {
+   "count": 10,
+   "page_types": {
+    "reference": 2,
+    "refentry": 5
+   }
+  },
+  "MongoCommandCursor": {
+   "count": 10,
+   "page_types": {
+    "reference": 2,
+    "refentry": 5
+   }
+  },
+  "bool|array": {
+   "count": 10,
+   "page_types": {
+    "reference": 2,
+    "refentry": 5
+   }
+  },
+  "integer|null": {
+   "count": 10,
+   "page_types": {
+    "reference": 1,
+    "refentry": 5
+   }
+  },
+  "mysql_xdevapi\\TableDelete": {
+   "count": 10,
+   "page_types": {
+    "reference": 2,
+    "refentry": 5
+   }
+  },
+  "Threaded": {
+   "count": 10,
+   "page_types": {
+    "reference": 5,
+    "refentry": 4
+   }
+  },
+  "SolrInputDocument": {
+   "count": 10,
+   "page_types": {
+    "reference": 3,
+    "refentry": 5
+   }
+  },
+  "SolrDocumentField": {
+   "count": 10,
+   "page_types": {
+    "reference": 2,
+    "refentry": 5
+   }
+  },
+  "SWFSound": {
+   "count": 10,
+   "page_types": {
+    "reference": 3,
+    "refentry": 5
+   }
+  },
+  "UI\\MenuItem": {
+   "count": 10,
+   "page_types": {
+    "reference": 1,
+    "refentry": 5
+   }
+  },
+  "confcode": {
+   "count": 10,
+   "page_types": {
+    "reference": 1
+   }
+  },
+  "shcode": {
+   "count": 10,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "cmdcode": {
+   "count": 10,
+   "page_types": {
+    "section": 2
+   }
+  },
+  "vcard": {
+   "count": 9,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "firstname": {
+   "count": 9,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "given-name": {
+   "count": 9,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "surname": {
+   "count": 9,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "family-name": {
+   "count": 9,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "iterable": {
+   "count": 9,
+   "page_types": {
+    "sect1": 4,
+    "refentry": 1
+   }
+  },
+  "CairoPath": {
+   "count": 9,
+   "page_types": {
+    "refentry": 3,
+    "reference": 1
+   }
+  },
+  "CairoFontFace": {
+   "count": 9,
+   "page_types": {
+    "refentry": 6,
+    "reference": 2
+   }
+  },
+  "DOMElement": {
+   "count": 9,
+   "page_types": {
+    "reference": 2,
+    "refentry": 4
+   }
+  },
+  "MessageFormatter": {
+   "count": 9,
+   "page_types": {
+    "reference": 1,
+    "refentry": 7
+   }
+  },
+  "MongoClient": {
+   "count": 9,
+   "page_types": {
+    "reference": 3,
+    "refentry": 4
+   }
+  },
+  "MongoDB\\Driver\\WriteResult": {
+   "count": 9,
+   "page_types": {
+    "reference": 4,
+    "refentry": 3
+   }
+  },
+  "mysql_xdevapi\\Session": {
+   "count": 9,
+   "page_types": {
+    "reference": 4,
+    "refentry": 5
+   }
+  },
+  "PharData": {
+   "count": 9,
+   "page_types": {
+    "reference": 2,
+    "refentry": 4
+   }
+  },
+  "SolrQueryResponse": {
+   "count": 9,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "author": {
+   "count": 8,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "abbrev": {
+   "count": 8,
+   "page_types": {
+    "sect1": 2,
+    "reference": 3,
+    "refentry": 2
+   }
+  },
+  "callback": {
+   "count": 8,
+   "page_types": {
+    "sect1": 3,
+    "reference": 2,
+    "refentry": 3
+   }
+  },
+  "Array": {
+   "count": 8,
+   "page_types": {
+    "sect1": 4,
+    "refentry": 2
+   }
+  },
+  "Ds\\Pair": {
+   "count": 8,
+   "page_types": {
+    "reference": 2,
+    "refentry": 4
+   }
+  },
+  "EventSslContext": {
+   "count": 8,
+   "page_types": {
+    "reference": 3,
+    "refentry": 4
+   }
+  },
+  "MongoGridFS": {
+   "count": 8,
+   "page_types": {
+    "reference": 3,
+    "refentry": 3
+   }
+  },
+  "MongoGridFSFile": {
+   "count": 8,
+   "page_types": {
+    "reference": 2,
+    "refentry": 4
+   }
+  },
+  "mysql_xdevapi\\CollectionRemove": {
+   "count": 8,
+   "page_types": {
+    "reference": 2,
+    "refentry": 4
+   }
+  },
+  "mysql_xdevapi\\Schema": {
+   "count": 8,
+   "page_types": {
+    "reference": 3,
+    "refentry": 4
+   }
+  },
+  "PDOStatement": {
+   "count": 8,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "ReflectionMethod": {
+   "count": 8,
+   "page_types": {
+    "reference": 3,
+    "refentry": 3
+   }
+  },
+  "SolrObject": {
+   "count": 8,
+   "page_types": {
+    "reference": 6,
+    "refentry": 2
+   }
+  },
+  "SWFFont": {
+   "count": 8,
+   "page_types": {
+    "reference": 4,
+    "refentry": 4
+   }
+  },
+  "Yaf_Application": {
+   "count": 8,
+   "page_types": {
+    "reference": 2,
+    "refentry": 4
+   }
+  },
+  "Yaf_Config_Abstract": {
+   "count": 8,
+   "page_types": {
+    "reference": 5,
+    "refentry": 3
+   }
+  },
+  "Type": {
+   "count": 8,
+   "page_types": {
+    "refentry": 2,
+    "preface": 1
+   }
+  },
+  "CairoPsSurface": {
+   "count": 8,
+   "page_types": {
+    "refentry": 8
+   }
+  },
+  "headercode": {
+   "count": 8,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "abstract": {
+   "count": 7,
+   "page_types": {
+    "preface": 1,
+    "set": 3,
+    "book": 2,
+    "chapter": 1
+   }
+  },
+  "String": {
+   "count": 7,
+   "page_types": {
+    "sect1": 2,
+    "refentry": 3
+   }
+  },
+  "OCI-Lob": {
+   "count": 7,
+   "page_types": {
+    "reference": 1,
+    "refentry": 4
+   }
+  },
+  "RarEntry": {
+   "count": 7,
+   "page_types": {
+    "reference": 1,
+    "section": 1,
+    "refentry": 3
+   }
+  },
+  "ReflectionExtension": {
+   "count": 7,
+   "page_types": {
+    "reference": 5,
+    "refentry": 2
+   }
+  },
+  "ResourceBundle": {
+   "count": 7,
+   "page_types": {
+    "reference": 1,
+    "refentry": 5
+   }
+  },
+  "Yaf_View_Interface": {
+   "count": 7,
+   "page_types": {
+    "reference": 3,
+    "refentry": 3
+   }
+  },
+  "HashContext": {
+   "count": 7,
+   "page_types": {
+    "refentry": 6
+   }
+  },
+  "unknown-returnvaluet": {
+   "count": 7,
+   "page_types": {
+    "refentry": 7
+   }
+  },
+  "v": {
+   "count": 6,
+   "page_types": {
+    "appendix": 6
+   }
+  },
+  "v5-3-0": {
+   "count": 6,
+   "page_types": {
+    "appendix": 5
+   }
+  },
+  "\\Closure": {
+   "count": 6,
+   "page_types": {
+    "reference": 3,
+    "refentry": 3
+   }
+  },
+  "Method": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "Value": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "FFI": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "LuaSandboxFunction": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "MongoCursorInterface": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "MongoDB\\BSON\\Binary": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "string|integer": {
+   "count": 6,
+   "page_types": {
+    "reference": 3,
+    "refentry": 3
+   }
+  },
+  "Channel": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "?Future": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "ReflectionType": {
+   "count": 6,
+   "page_types": {
+    "reference": 4,
+    "refentry": 2
+   }
+  },
+  "SplFileInfo": {
+   "count": 6,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "SplObjectStorage": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "SWFAction": {
+   "count": 6,
+   "page_types": {
+    "reference": 2,
+    "refentry": 3
+   }
+  },
+  "SWFSoundInstance": {
+   "count": 6,
+   "page_types": {
+    "reference": 3,
+    "refentry": 3
+   }
+  },
+  "Connection": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "TokyoTyrantIterator": {
+   "count": 6,
+   "page_types": {
+    "reference": 3,
+    "refentry": 2
+   }
+  },
+  "UI\\Draw\\Matrix": {
+   "count": 6,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "UI\\Draw\\Stroke": {
+   "count": 6,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Exception": {
+   "count": 5,
+   "page_types": {
+    "reference": 2,
+    "refentry": 3
+   }
+  },
+  "ArrayIterator": {
+   "count": 5,
+   "page_types": {
+    "refentry": 2,
+    "reference": 3
+   }
+  },
+  "\\CommonMark\\Node": {
+   "count": 5,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "\\Componere\\Method": {
+   "count": 5,
+   "page_types": {
+    "reference": 3,
+    "refentry": 1
+   }
+  },
+  "Patch": {
+   "count": 5,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "DOMText": {
+   "count": 5,
+   "page_types": {
+    "reference": 3,
+    "refentry": 2
+   }
+  },
+  "DOMDocumentType": {
+   "count": 5,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "EventHttpRequest": {
+   "count": 5,
+   "page_types": {
+    "reference": 1,
+    "refentry": 4
+   }
+  },
+  "string|int": {
+   "count": 5,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "iterator": {
+   "count": 5,
+   "page_types": {
+    "reference": 3,
+    "refentry": 2
+   }
+  },
+  "Callable": {
+   "count": 5,
+   "page_types": {
+    "reference": 2,
+    "refentry": 3
+   }
+  },
+  "SWFGradient": {
+   "count": 5,
+   "page_types": {
+    "reference": 1,
+    "refentry": 3
+   }
+  },
+  "long": {
+   "count": 5,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "nginx-confcode": {
+   "count": 4,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "Integer": {
+   "count": 4,
+   "page_types": {
+    "sect1": 1,
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "double": {
+   "count": 4,
+   "page_types": {
+    "sect1": 1,
+    "refentry": 3
+   }
+  },
+  "v5-5-0": {
+   "count": 4,
+   "page_types": {
+    "appendix": 4
+   }
+  },
+  "v5-3-4": {
+   "count": 4,
+   "page_types": {
+    "appendix": 4
+   }
+  },
+  "IVisitable": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "?int|IVisitable": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "\\ReflectionClass": {
+   "count": 4,
+   "page_types": {
+    "reference": 3,
+    "refentry": 1
+   }
+  },
+  "\\Componere\\Value": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "Event": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "EventDnsBase": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "EvIo": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "EvPeriodic": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "EvPrepare": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "EvSignal": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "EvTimer": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "ImagickPixelIterator": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "IntlPartsIterator": {
+   "count": 4,
+   "page_types": {
+    "reference": 3,
+    "refentry": 1
+   }
+  },
+  "IntlIterator": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "array|bool": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "MongoDB\\Driver\\CursorId": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "MongoDB\\Driver\\BulkWrite": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "MongoDB\\Driver\\Query": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "MongoDB\\Driver\\ReadPreference": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "mysql_xdevapi\\Collection": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "mysql_xdevapi\\Table": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "mysql_xdevapi\\SqlStatement": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "mysql_xdevapi\\TableInsert": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "mysqlnd_prepared_statement": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "Parle\\Token": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "Parle\\Lexer": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "Parle\\ErrorInfo": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "Parle\\RLexer": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "QuickHashIntHash": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "QuickHashIntSet": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "QuickHashIntStringHash": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "QuickHashStringIntHash": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "Generator": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "ReflectionFunctionAbstract": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "SplObserver": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "SQLite3Result": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "SWFFill": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "swoole_process": {
+   "count": 4,
+   "page_types": {
+    "reference": 3,
+    "refentry": 1
+   }
+  },
+  "binary": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "TokyoTyrantQuery": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "UI\\Draw\\Brush": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "Yaf_Loader": {
+   "count": 4,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "ZMQContext": {
+   "count": 4,
+   "page_types": {
+    "reference": 2,
+    "refentry": 2
+   }
+  },
+  "CairoGradientPattern": {
+   "count": 4,
+   "page_types": {
+    "refentry": 4
+   }
+  },
+  "LONG": {
+   "count": 4,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\Monitoring\\Subscriber": {
+   "count": 4,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "segmentedlist": {
+   "count": 4,
+   "page_types": {
+    "refentry": 1,
+    "chapter": 1,
+    "sect1": 1
+   }
+  },
+  "mysqlnd": {
+   "count": 4,
+   "page_types": {
+    "refentry": 4
+   }
+  },
+  "\\parallel\\Runtime": {
+   "count": 4,
+   "page_types": {
+    "refentry": 4
+   }
+  },
+  "\\parallel\\Runtime\\Error\\Closed": {
+   "count": 4,
+   "page_types": {
+    "refentry": 4
+   }
+  },
+  "SAMMessage": {
+   "count": 4,
+   "page_types": {
+    "refentry": 4
+   }
+  },
+  "SDODataObject": {
+   "count": 4,
+   "page_types": {
+    "refentry": 4
+   }
+  },
+  "SDO_Model_Type": {
+   "count": 4,
+   "page_types": {
+    "refentry": 4
+   }
+  },
+  "glossterm": {
+   "count": 4,
+   "page_types": {
+    "article": 2
+   }
+  },
+  "optional": {
+   "count": 3,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "Object": {
+   "count": 3,
+   "page_types": {
+    "refentry": 2,
+    "reference": 1
+   }
+  },
+  "v7-2-0": {
+   "count": 3,
+   "page_types": {
+    "appendix": 3
+   }
+  },
+  "v7-1-0": {
+   "count": 3,
+   "page_types": {
+    "appendix": 3
+   }
+  },
+  "v7-0-0": {
+   "count": 3,
+   "page_types": {
+    "appendix": 3
+   }
+  },
+  "v5-4-0": {
+   "count": 3,
+   "page_types": {
+    "appendix": 3
+   }
+  },
+  "v5-3-2": {
+   "count": 3,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-2-2": {
+   "count": 3,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "OCI-Collection": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "DirectoryIterator": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "EventHttpConnection": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 2
+   }
+  },
+  "boolean|string": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "int|MongoInt64": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "integer|float|string|DateTimeInterface": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\Monitoring\\CommandFailedEvent": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\Monitoring\\CommandStartedEvent": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\Monitoring\\CommandSucceededEvent": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysqli_warning": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "PharFileInfo": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "ReflectionProperty": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "ReflectionClassConstant": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "SolrPingResponse": {
+   "count": 3,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SplFileObject": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "Thread": {
+   "count": 3,
+   "page_types": {
+    "reference": 2,
+    "refentry": 1
+   }
+  },
+  "CairoSurfacePattern": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "stream": {
+   "count": 3,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "LibXMLError": {
+   "count": 3,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "unicode": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "char": {
+   "count": 3,
+   "page_types": {
+    "refentry": 1,
+    "sect1": 1
+   }
+  },
+  "string|array|object": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "stdClass": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "or": {
+   "count": 3,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "\\parallel\\Channel\\Error\\Closed": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "\\parallel\\Events\\Error\\Existence": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "blockquote": {
+   "count": 3,
+   "page_types": {
+    "article": 1,
+    "chapter": 1,
+    "sect1": 1
+   }
+  },
+  "PDO": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "SDO_DAS_XML_Document": {
+   "count": 3,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "SDO_XMLDocument": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "SDO_Model_Property": {
+   "count": 3,
+   "page_types": {
+    "refentry": 3
+   }
+  },
+  "*": {
+   "count": 3,
+   "page_types": {
+    "sect1": 2
+   }
+  },
+  "v8-0-0": {
+   "count": 3,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "authorgroup": {
+   "count": 2,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "WeakReference": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "?object": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "unknown-descriptioo": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "unknown-unknown-descriptiop": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "HTTPcode": {
+   "count": 2,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "lscode": {
+   "count": 2,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "scriptcode": {
+   "count": 2,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "v7-3-0": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v7-0-15,7-1-1": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-6-3": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-0-5": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-0-3": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-6-16": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v7-4-0": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v7-2-18,": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "7-3-5": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-6-5": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-6-0": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-5-21": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-5-11": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-5-1": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-4-32,": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "5-5-16": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-4-4": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-3-7": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-2-5": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "v5-2-3": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "-": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "5-2-6": {
+   "count": 2,
+   "page_types": {
+    "appendix": 2
+   }
+  },
+  "\\ReflectionMethod": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "DOMCDATASection": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "DOMComment": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "DOMDocumentFragment": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "DOMEntityReference": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "DOMProcessingInstruction": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Ds\\Collection": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Ds\\PriorityQueue": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Ds\\Queue": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Ds\\Stack": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "EventConfig": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "EvCheck": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "EvChild": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "EvEmbed": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "EvFork": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "EvIdle": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "EvStat": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "GearmanClient": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "gmagick": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MagickWand": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "KTaglib_ID3v2_Frame": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "KTaglib_MPEG_File": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "KTaglib_ID3v1_Tag": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "KTaglib_ID3v2_Tag": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "float|bool": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoCode": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "array[MongoCommandCursor]": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\ClientEncryption": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\ReadConcern": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\WriteConcern": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\Session": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "string|null": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\BSON\\TimestampInterface": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\BSON\\Timestamp|null": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\Server|null": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "boolean|null": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "string|integer|null": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "int|MongoDB\\BSON\\Int64": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoDB\\Driver\\WriteConcernError|null": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoGridFSCursor": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "string|resource": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "string|MongoId": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "MongoId": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysql_xdevapi\\CollectionAdd": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Document": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Schema": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Session": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysql_xdevapi\\DocResult": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysql_xdevapi\\CrudOperationBindable": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysql_xdevapi\\CrudOperationLimitable": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysql_xdevapi\\CrudOperationSkippable": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysql_xdevapi\\CrudOperationSortable": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysql_xdevapi\\RowResult": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "mysqlnd_statement": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Input": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "parallel\\Channel": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "parallel\\Future": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "?Event": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "ParentIterator": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "AtomicInteger": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Vector": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Pool": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "RecursiveArrayIterator": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "RecursiveCachingIterator": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "RecursiveCallbackFilterIterator": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "RecursiveFilterIterator": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "RecursiveRegexIterator": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "RecursiveIterator|IteratorAggregate": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Reflector": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "?ReflectionType": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "ReflectionReference": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SimpleXMLIterator": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SoapHeader": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SolrDocument": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SplFixedArray": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SplSubject": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SQLite3": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SQLite3Stmt": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "stompframe": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SVMModel": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SWFCharacter": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SWFSprite": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "SWFFontChar": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "VOID": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "TokyoTyrantTable": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "UI\\Draw\\Pen": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Control": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "UI\\Color": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "UI\\Draw\\Text\\Layout": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "UI\\Draw\\Text\\Font\\Descriptor": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "UI\\Draw\\Text\\Font": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Size": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "V8JsException": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "wkhtmltox\\PDF\\Object": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Yaf_Controller_Abstract": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Yaf_Bootstrap_Abstract": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Yaf_Router": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Yaf_Plugin_Abstract": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "call": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Yaf_Route_Abstract": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Yaf_Route_Interface": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "Yar_Client": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "ZMQPoll": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "ZookeeperConfig": {
+   "count": 2,
+   "page_types": {
+    "reference": 1,
+    "refentry": 1
+   }
+  },
+  "aspcode": {
+   "count": 2,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "EventListener": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "perlcode": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "apachecode": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "unknown-examplet": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "unknown-unknown-exampleu": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "CairoPdfSurface": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "CairoSvgSurface": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "strings": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "HW_API_Attribute": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "HW_API_Content": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "TEXT": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "NVARCHAR": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "VARCHAR": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "subscript": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1,
+    "preface": 1
+   }
+  },
+  "mysqlcode": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "resouce": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "unknown-parametert": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "int|string": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "citerefentry": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "refentrytitle": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "manvolnum": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "application": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "HW_API_Reason": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "numeric": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1,
+    "sect1": 1
+   }
+  },
+  "callbacks": {
+   "count": 2,
+   "page_types": {
+    "section": 2
+   }
+  },
+  "integer|string": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "chunklist_article": {
+   "count": 2,
+   "page_types": {
+    "article": 2
+   }
+  },
+  "mysql_stmt": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "Channel::Infinite": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Channel\\Error\\Existence": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Events\\Input\\Error\\Existence": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Events\\Error": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Future\\Error\\Killed": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Future\\Error\\Cancelled": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "Runtime": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "closure-characteristics": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "argv-characteristics": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "object-characteristics": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Future": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Runtime\\Error\\IllegalFunction": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Runtime\\Error\\IllegalInstruction": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Runtime\\Error\\IllegalParameter": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Runtime\\Error\\IllegalReturn": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Sync\\Error\\IllegalValue": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "\\parallel\\Runtime\\Error\\Bootstrap": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "4dcode": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "RarException": {
+   "count": 2,
+   "page_types": {
+    "section": 1,
+    "refentry": 1
+   }
+  },
+  "variables": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "functions": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "SDO_List": {
+   "count": 2,
+   "page_types": {
+    "refentry": 2
+   }
+  },
+  "makefilecode": {
+   "count": 2,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "bashcode": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "Counter": {
+   "count": 2,
+   "page_types": {
+    "refentry": 1,
+    "reference": 1
+   }
+  },
+  "pdo_driver_t": {
+   "count": 2,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "figure": {
+   "count": 2,
+   "page_types": {
+    "sect1": 2
+   }
+  },
+  "phptestcode": {
+   "count": 2,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "svnignorecode": {
+   "count": 2,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "/": {
+   "count": 2,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "(PECL": {
+   "count": 2,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "OCI8": {
+   "count": 2,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "by": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "othercredit": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "othername": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "pubdate": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "editor": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "editedby": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "copyright": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "year": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "holder": {
+   "count": 1,
+   "page_types": {
+    "set": 1
+   }
+  },
+  "Float": {
+   "count": 1,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "Bool": {
+   "count": 1,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "Null": {
+   "count": 1,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "Iterable": {
+   "count": 1,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "Resource": {
+   "count": 1,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "indices": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "unknown-unknown-unknown-descriptioq": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "unknown-unknown-unknown-unknown-descriptior": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "unknown-unknown-unknown-unknown-unknown-descriptios": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "unknown-unknown-unknown-unknown-unknown-unknown-descriptiot": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "v1-7-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-6-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-5-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-4-5": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-4-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-3-4": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-3-3": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-3-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-2-11": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-2-10": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-2-7": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-2-5": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-2-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-1-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-0-11": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-0-10": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-0-9": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-0-7": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-0-5": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v1-0-2": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v4-3-7": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "DOMConfiguration": {
+   "count": 1,
+   "page_types": {
+    "reference": 1
+   }
+  },
+  "DOMImplementation": {
+   "count": 1,
+   "page_types": {
+    "reference": 1
+   }
+  },
+  "?bool": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "CURLFile": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "CairoLinearGradient": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "CairoRadialGradient": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "CairoSolidPattern": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "Directory": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "constants": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "tag": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "HW_API": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "BOOLEAN": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "BYTE": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "BYTE/BLOB": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "CHAR": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "DATE/ANSIDATE/TIMESTAMP/TIME": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "FLOAT": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "INTEGER": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "MONEY": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "NCHAR": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "Judy": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "maxdb_stmt": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "Memcached": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "MysqlndUhConnection": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "MysqlndUhStatement": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "callable|int": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "unknown-unknown-parameteru": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "0": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SQLiteDatabase": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SQLiteResult": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SQLiteUnbuffered": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "context": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "errortype": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "hw_api_content": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "enum": {
+   "count": 1,
+   "page_types": {
+    "preface": 1
+   }
+  },
+  "object|array": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\parallel\\Channel\\Error\\IllegalValue": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\parallel\\Events\\Input\\Error\\IllegalValue": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\parallel\\Events\\Error\\Timeout": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\parallel\\Future\\Error": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\parallel\\Future\\Error\\Foreign": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\Throwable": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\parallel\\Runtime\\Error": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "\\parallel\\Runtime\\Bootstrap": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "scheduling-characteristics": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "ReflectionParameter": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "constructor": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "settings": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "Callback": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SDO_DAS_DataFactory": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SDO_DAS_ChangeSummary": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SDO_DAS_XML": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SDO_Sequence": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SDO_Model_ReflectionDataObject": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SolrGenericResponse": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SolrQuery::ORDER_DESC": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "SWFBitmap": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "integr": {
+   "count": 1,
+   "page_types": {
+    "refentry": 1
+   }
+  },
+  "zend_function_entry": {
+   "count": 1,
+   "page_types": {
+    "sect1": 1
+   }
+  },
+  "1-18-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "1-18-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-4-4": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-3-15,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-4-3": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-3-14,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-4-2": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-3": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-2-19,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-3-6": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-1-24,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-2-12,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-3-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-1-5": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-1-4": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-0-16,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-1-2": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-0-15,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-1-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-0-11": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-0-10": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v7-0-7": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-6-25,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-0-10": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-6-12": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-6-6": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-6-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-38,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-6-24,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "7-0-9": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-22,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-6-6": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-21,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-6-5": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-19/5-6-3": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-19,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-6-3": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-10": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-8": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-7": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-4": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-3/5-4-19": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-2": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-5-0/PECL": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "3-0-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-4-43,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-5-27,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-6-11": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-4-42,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-5-27": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-4-8": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-4-7": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-4-0/PECL": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "2-0-0b1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-4": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-3-19": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-3-15,": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "5-4-5": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-3-9": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-3-6": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-3-3": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "1-4)": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-3-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "1-3-4)": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-15": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-11": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-10": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-9": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-8": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-7": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-6": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-4": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-2-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-1-3": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-1-2": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-1-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-1-0": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-0-4": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-0-2": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "v5-0-1": {
+   "count": 1,
+   "page_types": {
+    "appendix": 1
+   }
+  },
+  "index-for-examples": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-refentry-toc": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-refentry": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-a": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-b": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-c": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-d": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-e": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-f": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-g": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-h": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-i": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-j": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-k": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-l": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-m": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-n": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-o": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-p": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-q": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-r": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-s": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-t": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-u": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-v": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-w": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-x": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-y": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-z": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  },
+  "index-for-_": {
+   "count": 1,
+   "page_types": {
+    "section": 1
+   }
+  }
+ },
+ "tags": {
+  "span": 537550,
+  "div": 142118,
+  "p": 118345,
+  "a": 114405,
+  "code": 96817,
+  "br": 96158,
+  "li": 68888,
+  "strong": 60348,
+  "h3": 44740,
+  "td": 37421,
+  "dt": 24672,
+  "dd": 24620,
+  "h1": 14122,
+  "tr": 13696,
+  "ul": 10093,
+  "dl": 8473,
+  "var": 6991,
+  "h2": 5442,
+  "th": 4706,
+  "pre": 4631,
+  "blockquote": 2692,
+  "em": 2173,
+  "tbody": 1952,
+  "table": 1802,
+  "thead": 1694,
+  "acronym": 708,
+  "caption": 696,
+  "h4": 265,
+  "col": 181,
+  "ol": 91,
+  "img": 84,
+  "sup": 61,
+  "h5": 57,
+  "q": 38,
+  "abbr": 8,
+  "sub": 2
+ }
+}
